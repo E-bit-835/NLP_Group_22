@@ -1,0 +1,1001 @@
+text,intent,response
+catch later,goodbye,Response for goodbye.
+hi,greeting,Response for greeting.
+good morning,greeting,Response for greeting.
+cost redmi note 14,price_query,Response for price_query.
+availability galaxy s24,availability,Response for availability.
+difference iphone 15 redmi note 14,comparison,Response for comparison.
+see,goodbye,Response for goodbye.
+need charger,accessory_search,Response for accessory_search.
+goodbye,goodbye,Response for goodbye.
+price screen protector,accessory_search,Response for accessory_search.
+vivo v50 v iphone 15,comparison,Response for comparison.
+hey,greeting,Response for greeting.
+compare vivo v50 oppo reno 14,comparison,Response for comparison.
+hey,greeting,Response for greeting.
+price screen protector,accessory_search,Response for accessory_search.
+best camera phone,recommendation,Response for recommendation.
+show phone case,accessory_search,Response for accessory_search.
+phone student,recommendation,Response for recommendation.
+difference iphone 15 vivo v50,comparison,Response for comparison.
+price galaxy s24,price_query,Response for price_query.
+looking power bank,accessory_search,Response for accessory_search.
+price power bank,accessory_search,Response for accessory_search.
+hey,greeting,Response for greeting.
+recommend phone,recommendation,Response for recommendation.
+compare phone,comparison,Response for comparison.
+better oppo reno 14 iphone 15,comparison,Response for comparison.
+great thanks,thanks,Response for thanks.
+good morning,greeting,Response for greeting.
+need airpods,accessory_search,Response for accessory_search.
+show samsung phone,phone_search,Response for phone_search.
+tell price vivo v50,price_query,Response for price_query.
+difference oneplus 13 redmi note 14,comparison,Response for comparison.
+show charger,accessory_search,Response for accessory_search.
+bye,goodbye,Response for goodbye.
+stock oppo reno 14,availability,Response for availability.
+looking samsung mobile,phone_search,Response for phone_search.
+best battery phone,recommendation,Response for recommendation.
+best gaming phone,recommendation,Response for recommendation.
+looking usbc cable,accessory_search,Response for accessory_search.
+power bank,accessory_search,Response for accessory_search.
+best gaming phone,recommendation,Response for recommendation.
+cost vivo v50,price_query,Response for price_query.
+pay card,payment,Response for payment.
+need vivo phone,phone_search,Response for phone_search.
+much vivo v50,price_query,Response for price_query.
+need airpods,accessory_search,Response for accessory_search.
+use visa,payment,Response for payment.
+better vivo v50 galaxy s24,comparison,Response for comparison.
+difference vivo v50 redmi note 14,comparison,Response for comparison.
+compare phone,comparison,Response for comparison.
+thanks,thanks,Response for thanks.
+show oneplus phone,phone_search,Response for phone_search.
+nice day,goodbye,Response for goodbye.
+goodbye,goodbye,Response for goodbye.
+much redmi note 14,price_query,Response for price_query.
+price usbc cable,accessory_search,Response for accessory_search.
+hi,greeting,Response for greeting.
+show charger,accessory_search,Response for accessory_search.
+buy iphone 15,availability,Response for availability.
+iphone 15 price,price_query,Response for price_query.
+much iphone 15,price_query,Response for price_query.
+looking power bank,accessory_search,Response for accessory_search.
+hi,greeting,Response for greeting.
+galaxy s24 v galaxy s24,comparison,Response for comparison.
+use visa,payment,Response for payment.
+availability iphone 15,availability,Response for availability.
+best battery phone,recommendation,Response for recommendation.
+much appreciated,thanks,Response for thanks.
+good morning,greeting,Response for greeting.
+bye,goodbye,Response for goodbye.
+show realme phone,phone_search,Response for phone_search.
+thanks,thanks,Response for thanks.
+cash accepted,payment,Response for payment.
+thanks lot,thanks,Response for thanks.
+best camera phone,recommendation,Response for recommendation.
+difference galaxy s24 oneplus 13,comparison,Response for comparison.
+cash accepted,payment,Response for payment.
+compare redmi note 14 redmi note 14,comparison,Response for comparison.
+online payment,payment,Response for payment.
+goodbye,goodbye,Response for goodbye.
+looking oneplus mobile,phone_search,Response for phone_search.
+see,goodbye,Response for goodbye.
+oneplus 13 price,price_query,Response for price_query.
+need oppo phone,phone_search,Response for phone_search.
+oppo reno 14,availability,Response for availability.
+buy iphone 15,availability,Response for availability.
+need phone case,accessory_search,Response for accessory_search.
+good morning,greeting,Response for greeting.
+payment method,payment,Response for payment.
+thank,thanks,Response for thanks.
+catch later,goodbye,Response for goodbye.
+realme,phone_search,Response for phone_search.
+much appreciated,thanks,Response for thanks.
+bye,goodbye,Response for goodbye.
+difference iphone 15 oppo reno 14,comparison,Response for comparison.
+redmi note 14,availability,Response for availability.
+cost redmi note 14,price_query,Response for price_query.
+see,goodbye,Response for goodbye.
+availability vivo v50,availability,Response for availability.
+online payment,payment,Response for payment.
+availability redmi note 14,availability,Response for availability.
+use visa,payment,Response for payment.
+great thanks,thanks,Response for thanks.
+need usbc cable,accessory_search,Response for accessory_search.
+good morning,greeting,Response for greeting.
+redmi note 14 price,price_query,Response for price_query.
+hey,greeting,Response for greeting.
+stock galaxy s24,availability,Response for availability.
+great thanks,thanks,Response for thanks.
+compare oneplus 13 oppo reno 14,comparison,Response for comparison.
+difference iphone 15 oneplus 13,comparison,Response for comparison.
+best camera phone,recommendation,Response for recommendation.
+thanks,thanks,Response for thanks.
+recommend phone,recommendation,Response for recommendation.
+phone student,recommendation,Response for recommendation.
+nice day,goodbye,Response for goodbye.
+show apple phone,phone_search,Response for phone_search.
+catch later,goodbye,Response for goodbye.
+iphone 15 available,availability,Response for availability.
+oneplus 13 available,availability,Response for availability.
+compare phone,comparison,Response for comparison.
+hey,greeting,Response for greeting.
+much redmi note 14,price_query,Response for price_query.
+nice day,goodbye,Response for goodbye.
+need power bank,accessory_search,Response for accessory_search.
+hi,greeting,Response for greeting.
+pay card,payment,Response for payment.
+cost oneplus 13,price_query,Response for price_query.
+usbc cable,accessory_search,Response for accessory_search.
+hello,greeting,Response for greeting.
+price iphone 15,price_query,Response for price_query.
+hi,greeting,Response for greeting.
+looking realme mobile,phone_search,Response for phone_search.
+show xiaomi phone,phone_search,Response for phone_search.
+catch later,goodbye,Response for goodbye.
+thanks,thanks,Response for thanks.
+cash accepted,payment,Response for payment.
+need usbc cable,accessory_search,Response for accessory_search.
+looking oneplus mobile,phone_search,Response for phone_search.
+much appreciated,thanks,Response for thanks.
+payment method,payment,Response for payment.
+compare oneplus 13 galaxy s24,comparison,Response for comparison.
+nice day,goodbye,Response for goodbye.
+hi,greeting,Response for greeting.
+thank,thanks,Response for thanks.
+show vivo phone,phone_search,Response for phone_search.
+online payment,payment,Response for payment.
+best gaming phone,recommendation,Response for recommendation.
+use visa,payment,Response for payment.
+see,goodbye,Response for goodbye.
+need realme phone,phone_search,Response for phone_search.
+payment method,payment,Response for payment.
+much appreciated,thanks,Response for thanks.
+good morning,greeting,Response for greeting.
+price redmi note 14,price_query,Response for price_query.
+galaxy s24,availability,Response for availability.
+vivo v50 price,price_query,Response for price_query.
+apple,phone_search,Response for phone_search.
+hey,greeting,Response for greeting.
+tell price galaxy s24,price_query,Response for price_query.
+see,goodbye,Response for goodbye.
+charger,accessory_search,Response for accessory_search.
+stock redmi note 14,availability,Response for availability.
+best gaming phone,recommendation,Response for recommendation.
+price phone case,accessory_search,Response for accessory_search.
+catch later,goodbye,Response for goodbye.
+phone student,recommendation,Response for recommendation.
+thank,thanks,Response for thanks.
+great thanks,thanks,Response for thanks.
+good morning,greeting,Response for greeting.
+recommend phone,recommendation,Response for recommendation.
+realme,phone_search,Response for phone_search.
+thank,thanks,Response for thanks.
+much appreciated,thanks,Response for thanks.
+cost iphone 15,price_query,Response for price_query.
+difference vivo v50 oneplus 13,comparison,Response for comparison.
+better galaxy s24 galaxy s24,comparison,Response for comparison.
+phone student,recommendation,Response for recommendation.
+payment method,payment,Response for payment.
+use visa,payment,Response for payment.
+phone student,recommendation,Response for recommendation.
+better redmi note 14 vivo v50,comparison,Response for comparison.
+catch later,goodbye,Response for goodbye.
+good evening,greeting,Response for greeting.
+recommend phone,recommendation,Response for recommendation.
+best battery phone,recommendation,Response for recommendation.
+latest samsung phone,phone_search,Response for phone_search.
+catch later,goodbye,Response for goodbye.
+nice day,goodbye,Response for goodbye.
+thank,thanks,Response for thanks.
+recommend phone,recommendation,Response for recommendation.
+need usbc cable,accessory_search,Response for accessory_search.
+hello,greeting,Response for greeting.
+thank,thanks,Response for thanks.
+good morning,greeting,Response for greeting.
+pay card,payment,Response for payment.
+much appreciated,thanks,Response for thanks.
+recommend phone,recommendation,Response for recommendation.
+compare iphone 15 oneplus 13,comparison,Response for comparison.
+looking xiaomi mobile,phone_search,Response for phone_search.
+compare vivo v50 oppo reno 14,comparison,Response for comparison.
+recommend phone,recommendation,Response for recommendation.
+best camera phone,recommendation,Response for recommendation.
+looking xiaomi mobile,phone_search,Response for phone_search.
+pay card,payment,Response for payment.
+redmi note 14 v iphone 15,comparison,Response for comparison.
+pay card,payment,Response for payment.
+much appreciated,thanks,Response for thanks.
+much appreciated,thanks,Response for thanks.
+cash accepted,payment,Response for payment.
+galaxy s24 price,price_query,Response for price_query.
+compare oppo reno 14 iphone 15,comparison,Response for comparison.
+good morning,greeting,Response for greeting.
+nice day,goodbye,Response for goodbye.
+price usbc cable,accessory_search,Response for accessory_search.
+oneplus 13,availability,Response for availability.
+looking apple mobile,phone_search,Response for phone_search.
+pay card,payment,Response for payment.
+vivo v50,availability,Response for availability.
+best gaming phone,recommendation,Response for recommendation.
+hi,greeting,Response for greeting.
+galaxy s24 price,price_query,Response for price_query.
+good evening,greeting,Response for greeting.
+price oppo reno 14,price_query,Response for price_query.
+best gaming phone,recommendation,Response for recommendation.
+nice day,goodbye,Response for goodbye.
+show xiaomi phone,phone_search,Response for phone_search.
+hello,greeting,Response for greeting.
+oneplus 13 v oppo reno 14,comparison,Response for comparison.
+use visa,payment,Response for payment.
+looking apple mobile,phone_search,Response for phone_search.
+much redmi note 14,price_query,Response for price_query.
+goodbye,goodbye,Response for goodbye.
+hey,greeting,Response for greeting.
+latest vivo phone,phone_search,Response for phone_search.
+pay card,payment,Response for payment.
+recommend phone,recommendation,Response for recommendation.
+much appreciated,thanks,Response for thanks.
+phone case,accessory_search,Response for accessory_search.
+pay card,payment,Response for payment.
+best gaming phone,recommendation,Response for recommendation.
+good morning,greeting,Response for greeting.
+hello,greeting,Response for greeting.
+good morning,greeting,Response for greeting.
+looking oneplus mobile,phone_search,Response for phone_search.
+oppo reno 14 v galaxy s24,comparison,Response for comparison.
+show oneplus phone,phone_search,Response for phone_search.
+hi,greeting,Response for greeting.
+looking xiaomi mobile,phone_search,Response for phone_search.
+difference oppo reno 14 redmi note 14,comparison,Response for comparison.
+latest oneplus phone,phone_search,Response for phone_search.
+see,goodbye,Response for goodbye.
+hi,greeting,Response for greeting.
+much appreciated,thanks,Response for thanks.
+bye,goodbye,Response for goodbye.
+compare vivo v50 galaxy s24,comparison,Response for comparison.
+much appreciated,thanks,Response for thanks.
+price airpods,accessory_search,Response for accessory_search.
+looking airpods,accessory_search,Response for accessory_search.
+better oppo reno 14 oppo reno 14,comparison,Response for comparison.
+apple,phone_search,Response for phone_search.
+goodbye,goodbye,Response for goodbye.
+online payment,payment,Response for payment.
+goodbye,goodbye,Response for goodbye.
+cash accepted,payment,Response for payment.
+oneplus 13,availability,Response for availability.
+need oppo phone,phone_search,Response for phone_search.
+hi,greeting,Response for greeting.
+difference redmi note 14 vivo v50,comparison,Response for comparison.
+thanks lot,thanks,Response for thanks.
+great thanks,thanks,Response for thanks.
+better vivo v50 iphone 15,comparison,Response for comparison.
+better oneplus 13 iphone 15,comparison,Response for comparison.
+availability oneplus 13,availability,Response for availability.
+price charger,accessory_search,Response for accessory_search.
+need charger,accessory_search,Response for accessory_search.
+vivo v50 v oneplus 13,comparison,Response for comparison.
+stock vivo v50,availability,Response for availability.
+compare galaxy s24 galaxy s24,comparison,Response for comparison.
+need phone case,accessory_search,Response for accessory_search.
+great thanks,thanks,Response for thanks.
+best camera phone,recommendation,Response for recommendation.
+latest apple phone,phone_search,Response for phone_search.
+payment method,payment,Response for payment.
+latest apple phone,phone_search,Response for phone_search.
+iphone 15,availability,Response for availability.
+price galaxy s24,price_query,Response for price_query.
+samsung,phone_search,Response for phone_search.
+thank,thanks,Response for thanks.
+great thanks,thanks,Response for thanks.
+cost oppo reno 14,price_query,Response for price_query.
+great thanks,thanks,Response for thanks.
+need usbc cable,accessory_search,Response for accessory_search.
+looking oneplus mobile,phone_search,Response for phone_search.
+tell price galaxy s24,price_query,Response for price_query.
+thanks lot,thanks,Response for thanks.
+compare phone,comparison,Response for comparison.
+better oneplus 13 galaxy s24,comparison,Response for comparison.
+looking realme mobile,phone_search,Response for phone_search.
+price oppo reno 14,price_query,Response for price_query.
+latest apple phone,phone_search,Response for phone_search.
+galaxy s24 available,availability,Response for availability.
+price screen protector,accessory_search,Response for accessory_search.
+use visa,payment,Response for payment.
+bye,goodbye,Response for goodbye.
+thank,thanks,Response for thanks.
+usbc cable,accessory_search,Response for accessory_search.
+good evening,greeting,Response for greeting.
+better vivo v50 redmi note 14,comparison,Response for comparison.
+thank,thanks,Response for thanks.
+iphone 15 v vivo v50,comparison,Response for comparison.
+phone case,accessory_search,Response for accessory_search.
+tell price oppo reno 14,price_query,Response for price_query.
+cost galaxy s24,price_query,Response for price_query.
+much appreciated,thanks,Response for thanks.
+thanks,thanks,Response for thanks.
+thank,thanks,Response for thanks.
+online payment,payment,Response for payment.
+cost vivo v50,price_query,Response for price_query.
+show power bank,accessory_search,Response for accessory_search.
+online payment,payment,Response for payment.
+goodbye,goodbye,Response for goodbye.
+cash accepted,payment,Response for payment.
+much appreciated,thanks,Response for thanks.
+show phone case,accessory_search,Response for accessory_search.
+thanks lot,thanks,Response for thanks.
+use visa,payment,Response for payment.
+goodbye,goodbye,Response for goodbye.
+show xiaomi phone,phone_search,Response for phone_search.
+galaxy s24 v vivo v50,comparison,Response for comparison.
+hey,greeting,Response for greeting.
+show vivo phone,phone_search,Response for phone_search.
+price usbc cable,accessory_search,Response for accessory_search.
+best gaming phone,recommendation,Response for recommendation.
+use visa,payment,Response for payment.
+show airpods,accessory_search,Response for accessory_search.
+goodbye,goodbye,Response for goodbye.
+looking phone case,accessory_search,Response for accessory_search.
+good morning,greeting,Response for greeting.
+looking vivo mobile,phone_search,Response for phone_search.
+buy iphone 15,availability,Response for availability.
+compare vivo v50 iphone 15,comparison,Response for comparison.
+thanks lot,thanks,Response for thanks.
+pay card,payment,Response for payment.
+cost vivo v50,price_query,Response for price_query.
+good evening,greeting,Response for greeting.
+looking realme mobile,phone_search,Response for phone_search.
+thanks,thanks,Response for thanks.
+price airpods,accessory_search,Response for accessory_search.
+best battery phone,recommendation,Response for recommendation.
+stock redmi note 14,availability,Response for availability.
+much appreciated,thanks,Response for thanks.
+tell price iphone 15,price_query,Response for price_query.
+bye,goodbye,Response for goodbye.
+cash accepted,payment,Response for payment.
+good morning,greeting,Response for greeting.
+best gaming phone,recommendation,Response for recommendation.
+price vivo v50,price_query,Response for price_query.
+best camera phone,recommendation,Response for recommendation.
+latest vivo phone,phone_search,Response for phone_search.
+latest apple phone,phone_search,Response for phone_search.
+compare phone,comparison,Response for comparison.
+payment method,payment,Response for payment.
+pay card,payment,Response for payment.
+best camera phone,recommendation,Response for recommendation.
+cost redmi note 14,price_query,Response for price_query.
+latest realme phone,phone_search,Response for phone_search.
+recommend phone,recommendation,Response for recommendation.
+use visa,payment,Response for payment.
+online payment,payment,Response for payment.
+payment method,payment,Response for payment.
+buy oppo reno 14,availability,Response for availability.
+see,goodbye,Response for goodbye.
+iphone 15 price,price_query,Response for price_query.
+recommend phone,recommendation,Response for recommendation.
+goodbye,goodbye,Response for goodbye.
+good morning,greeting,Response for greeting.
+need power bank,accessory_search,Response for accessory_search.
+best camera phone,recommendation,Response for recommendation.
+xiaomi,phone_search,Response for phone_search.
+need power bank,accessory_search,Response for accessory_search.
+stock oneplus 13,availability,Response for availability.
+tell price oneplus 13,price_query,Response for price_query.
+nice day,goodbye,Response for goodbye.
+show screen protector,accessory_search,Response for accessory_search.
+phone case,accessory_search,Response for accessory_search.
+cash accepted,payment,Response for payment.
+redmi note 14 price,price_query,Response for price_query.
+hey,greeting,Response for greeting.
+vivo v50,availability,Response for availability.
+cost redmi note 14,price_query,Response for price_query.
+cash accepted,payment,Response for payment.
+cost galaxy s24,price_query,Response for price_query.
+buy galaxy s24,availability,Response for availability.
+best battery phone,recommendation,Response for recommendation.
+thank,thanks,Response for thanks.
+need realme phone,phone_search,Response for phone_search.
+better galaxy s24 galaxy s24,comparison,Response for comparison.
+great thanks,thanks,Response for thanks.
+compare phone,comparison,Response for comparison.
+show oneplus phone,phone_search,Response for phone_search.
+much galaxy s24,price_query,Response for price_query.
+bye,goodbye,Response for goodbye.
+online payment,payment,Response for payment.
+pay card,payment,Response for payment.
+best gaming phone,recommendation,Response for recommendation.
+see,goodbye,Response for goodbye.
+hi,greeting,Response for greeting.
+hello,greeting,Response for greeting.
+cost iphone 15,price_query,Response for price_query.
+hello,greeting,Response for greeting.
+nice day,goodbye,Response for goodbye.
+best battery phone,recommendation,Response for recommendation.
+show power bank,accessory_search,Response for accessory_search.
+phone student,recommendation,Response for recommendation.
+show power bank,accessory_search,Response for accessory_search.
+need charger,accessory_search,Response for accessory_search.
+looking screen protector,accessory_search,Response for accessory_search.
+show airpods,accessory_search,Response for accessory_search.
+difference vivo v50 vivo v50,comparison,Response for comparison.
+stock oneplus 13,availability,Response for availability.
+price usbc cable,accessory_search,Response for accessory_search.
+need vivo phone,phone_search,Response for phone_search.
+catch later,goodbye,Response for goodbye.
+buy galaxy s24,availability,Response for availability.
+best gaming phone,recommendation,Response for recommendation.
+online payment,payment,Response for payment.
+thanks lot,thanks,Response for thanks.
+phone case,accessory_search,Response for accessory_search.
+galaxy s24 price,price_query,Response for price_query.
+oppo reno 14 price,price_query,Response for price_query.
+payment method,payment,Response for payment.
+cost oppo reno 14,price_query,Response for price_query.
+iphone 15 v vivo v50,comparison,Response for comparison.
+thanks lot,thanks,Response for thanks.
+looking oppo mobile,phone_search,Response for phone_search.
+looking oppo mobile,phone_search,Response for phone_search.
+payment method,payment,Response for payment.
+best gaming phone,recommendation,Response for recommendation.
+thanks lot,thanks,Response for thanks.
+thanks lot,thanks,Response for thanks.
+online payment,payment,Response for payment.
+thanks,thanks,Response for thanks.
+iphone 15,availability,Response for availability.
+need usbc cable,accessory_search,Response for accessory_search.
+galaxy s24 v redmi note 14,comparison,Response for comparison.
+see,goodbye,Response for goodbye.
+better redmi note 14 redmi note 14,comparison,Response for comparison.
+vivo v50 available,availability,Response for availability.
+cost vivo v50,price_query,Response for price_query.
+show xiaomi phone,phone_search,Response for phone_search.
+much appreciated,thanks,Response for thanks.
+thank,thanks,Response for thanks.
+online payment,payment,Response for payment.
+pay card,payment,Response for payment.
+good evening,greeting,Response for greeting.
+good evening,greeting,Response for greeting.
+best battery phone,recommendation,Response for recommendation.
+availability galaxy s24,availability,Response for availability.
+good morning,greeting,Response for greeting.
+great thanks,thanks,Response for thanks.
+apple,phone_search,Response for phone_search.
+better galaxy s24 oppo reno 14,comparison,Response for comparison.
+thank,thanks,Response for thanks.
+hi,greeting,Response for greeting.
+catch later,goodbye,Response for goodbye.
+price charger,accessory_search,Response for accessory_search.
+stock redmi note 14,availability,Response for availability.
+see,goodbye,Response for goodbye.
+hey,greeting,Response for greeting.
+tell price vivo v50,price_query,Response for price_query.
+much appreciated,thanks,Response for thanks.
+use visa,payment,Response for payment.
+phone student,recommendation,Response for recommendation.
+hi,greeting,Response for greeting.
+best gaming phone,recommendation,Response for recommendation.
+pay card,payment,Response for payment.
+hello,greeting,Response for greeting.
+availability oppo reno 14,availability,Response for availability.
+tell price oppo reno 14,price_query,Response for price_query.
+hey,greeting,Response for greeting.
+online payment,payment,Response for payment.
+thank,thanks,Response for thanks.
+price usbc cable,accessory_search,Response for accessory_search.
+show vivo phone,phone_search,Response for phone_search.
+thanks lot,thanks,Response for thanks.
+best gaming phone,recommendation,Response for recommendation.
+stock iphone 15,availability,Response for availability.
+oppo reno 14 price,price_query,Response for price_query.
+compare galaxy s24 redmi note 14,comparison,Response for comparison.
+oneplus 13 available,availability,Response for availability.
+price airpods,accessory_search,Response for accessory_search.
+best gaming phone,recommendation,Response for recommendation.
+show phone case,accessory_search,Response for accessory_search.
+thanks,thanks,Response for thanks.
+airpods,accessory_search,Response for accessory_search.
+need screen protector,accessory_search,Response for accessory_search.
+vivo v50 price,price_query,Response for price_query.
+phone student,recommendation,Response for recommendation.
+redmi note 14 v galaxy s24,comparison,Response for comparison.
+need charger,accessory_search,Response for accessory_search.
+see,goodbye,Response for goodbye.
+thanks lot,thanks,Response for thanks.
+compare oneplus 13 galaxy s24,comparison,Response for comparison.
+hey,greeting,Response for greeting.
+best battery phone,recommendation,Response for recommendation.
+need usbc cable,accessory_search,Response for accessory_search.
+price galaxy s24,price_query,Response for price_query.
+redmi note 14 available,availability,Response for availability.
+thanks,thanks,Response for thanks.
+oppo reno 14 available,availability,Response for availability.
+recommend phone,recommendation,Response for recommendation.
+iphone 15 v galaxy s24,comparison,Response for comparison.
+cost redmi note 14,price_query,Response for price_query.
+compare phone,comparison,Response for comparison.
+online payment,payment,Response for payment.
+availability redmi note 14,availability,Response for availability.
+good morning,greeting,Response for greeting.
+better oneplus 13 vivo v50,comparison,Response for comparison.
+oppo reno 14 price,price_query,Response for price_query.
+need oneplus phone,phone_search,Response for phone_search.
+need vivo phone,phone_search,Response for phone_search.
+galaxy s24 v oppo reno 14,comparison,Response for comparison.
+looking realme mobile,phone_search,Response for phone_search.
+airpods,accessory_search,Response for accessory_search.
+looking phone case,accessory_search,Response for accessory_search.
+tell price oneplus 13,price_query,Response for price_query.
+much appreciated,thanks,Response for thanks.
+much appreciated,thanks,Response for thanks.
+hey,greeting,Response for greeting.
+goodbye,goodbye,Response for goodbye.
+recommend phone,recommendation,Response for recommendation.
+looking power bank,accessory_search,Response for accessory_search.
+hi,greeting,Response for greeting.
+thanks,thanks,Response for thanks.
+nice day,goodbye,Response for goodbye.
+show screen protector,accessory_search,Response for accessory_search.
+good evening,greeting,Response for greeting.
+stock oneplus 13,availability,Response for availability.
+much appreciated,thanks,Response for thanks.
+price phone case,accessory_search,Response for accessory_search.
+price power bank,accessory_search,Response for accessory_search.
+oneplus 13,availability,Response for availability.
+pay card,payment,Response for payment.
+hello,greeting,Response for greeting.
+see,goodbye,Response for goodbye.
+difference galaxy s24 redmi note 14,comparison,Response for comparison.
+nice day,goodbye,Response for goodbye.
+latest xiaomi phone,phone_search,Response for phone_search.
+best gaming phone,recommendation,Response for recommendation.
+looking apple mobile,phone_search,Response for phone_search.
+bye,goodbye,Response for goodbye.
+payment method,payment,Response for payment.
+best battery phone,recommendation,Response for recommendation.
+xiaomi,phone_search,Response for phone_search.
+price phone case,accessory_search,Response for accessory_search.
+goodbye,goodbye,Response for goodbye.
+catch later,goodbye,Response for goodbye.
+show apple phone,phone_search,Response for phone_search.
+payment method,payment,Response for payment.
+much oneplus 13,price_query,Response for price_query.
+best gaming phone,recommendation,Response for recommendation.
+vivo v50 available,availability,Response for availability.
+stock vivo v50,availability,Response for availability.
+good morning,greeting,Response for greeting.
+stock redmi note 14,availability,Response for availability.
+compare phone,comparison,Response for comparison.
+goodbye,goodbye,Response for goodbye.
+thank,thanks,Response for thanks.
+hi,greeting,Response for greeting.
+goodbye,goodbye,Response for goodbye.
+much oppo reno 14,price_query,Response for price_query.
+recommend phone,recommendation,Response for recommendation.
+compare vivo v50 oppo reno 14,comparison,Response for comparison.
+samsung,phone_search,Response for phone_search.
+hello,greeting,Response for greeting.
+redmi note 14,availability,Response for availability.
+redmi note 14 price,price_query,Response for price_query.
+hello,greeting,Response for greeting.
+price redmi note 14,price_query,Response for price_query.
+pay card,payment,Response for payment.
+much iphone 15,price_query,Response for price_query.
+buy iphone 15,availability,Response for availability.
+hello,greeting,Response for greeting.
+price iphone 15,price_query,Response for price_query.
+compare phone,comparison,Response for comparison.
+use visa,payment,Response for payment.
+recommend phone,recommendation,Response for recommendation.
+show charger,accessory_search,Response for accessory_search.
+much galaxy s24,price_query,Response for price_query.
+thanks,thanks,Response for thanks.
+compare oneplus 13 iphone 15,comparison,Response for comparison.
+thank,thanks,Response for thanks.
+price galaxy s24,price_query,Response for price_query.
+best gaming phone,recommendation,Response for recommendation.
+best gaming phone,recommendation,Response for recommendation.
+hi,greeting,Response for greeting.
+difference redmi note 14 oneplus 13,comparison,Response for comparison.
+oppo,phone_search,Response for phone_search.
+much appreciated,thanks,Response for thanks.
+thank,thanks,Response for thanks.
+need vivo phone,phone_search,Response for phone_search.
+best battery phone,recommendation,Response for recommendation.
+best gaming phone,recommendation,Response for recommendation.
+much redmi note 14,price_query,Response for price_query.
+bye,goodbye,Response for goodbye.
+oppo,phone_search,Response for phone_search.
+need power bank,accessory_search,Response for accessory_search.
+looking airpods,accessory_search,Response for accessory_search.
+recommend phone,recommendation,Response for recommendation.
+catch later,goodbye,Response for goodbye.
+hey,greeting,Response for greeting.
+goodbye,goodbye,Response for goodbye.
+vivo v50 available,availability,Response for availability.
+payment method,payment,Response for payment.
+latest realme phone,phone_search,Response for phone_search.
+hi,greeting,Response for greeting.
+charger,accessory_search,Response for accessory_search.
+best battery phone,recommendation,Response for recommendation.
+buy vivo v50,availability,Response for availability.
+iphone 15 v oppo reno 14,comparison,Response for comparison.
+price oppo reno 14,price_query,Response for price_query.
+best gaming phone,recommendation,Response for recommendation.
+show usbc cable,accessory_search,Response for accessory_search.
+latest oppo phone,phone_search,Response for phone_search.
+recommend phone,recommendation,Response for recommendation.
+online payment,payment,Response for payment.
+use visa,payment,Response for payment.
+hey,greeting,Response for greeting.
+much oneplus 13,price_query,Response for price_query.
+pay card,payment,Response for payment.
+galaxy s24 v oppo reno 14,comparison,Response for comparison.
+price phone case,accessory_search,Response for accessory_search.
+good morning,greeting,Response for greeting.
+price phone case,accessory_search,Response for accessory_search.
+better vivo v50 oneplus 13,comparison,Response for comparison.
+hey,greeting,Response for greeting.
+price phone case,accessory_search,Response for accessory_search.
+best battery phone,recommendation,Response for recommendation.
+thanks lot,thanks,Response for thanks.
+looking realme mobile,phone_search,Response for phone_search.
+hello,greeting,Response for greeting.
+hello,greeting,Response for greeting.
+cash accepted,payment,Response for payment.
+better redmi note 14 iphone 15,comparison,Response for comparison.
+show oneplus phone,phone_search,Response for phone_search.
+nice day,goodbye,Response for goodbye.
+goodbye,goodbye,Response for goodbye.
+better vivo v50 redmi note 14,comparison,Response for comparison.
+latest realme phone,phone_search,Response for phone_search.
+need airpods,accessory_search,Response for accessory_search.
+looking power bank,accessory_search,Response for accessory_search.
+better oppo reno 14 redmi note 14,comparison,Response for comparison.
+online payment,payment,Response for payment.
+recommend phone,recommendation,Response for recommendation.
+cost galaxy s24,price_query,Response for price_query.
+catch later,goodbye,Response for goodbye.
+compare oneplus 13 galaxy s24,comparison,Response for comparison.
+online payment,payment,Response for payment.
+galaxy s24 available,availability,Response for availability.
+show apple phone,phone_search,Response for phone_search.
+see,goodbye,Response for goodbye.
+great thanks,thanks,Response for thanks.
+better oppo reno 14 oppo reno 14,comparison,Response for comparison.
+payment method,payment,Response for payment.
+much redmi note 14,price_query,Response for price_query.
+oneplus 13,availability,Response for availability.
+good morning,greeting,Response for greeting.
+pay card,payment,Response for payment.
+galaxy s24 available,availability,Response for availability.
+need charger,accessory_search,Response for accessory_search.
+good morning,greeting,Response for greeting.
+bye,goodbye,Response for goodbye.
+stock iphone 15,availability,Response for availability.
+use visa,payment,Response for payment.
+difference oneplus 13 vivo v50,comparison,Response for comparison.
+buy redmi note 14,availability,Response for availability.
+see,goodbye,Response for goodbye.
+cost galaxy s24,price_query,Response for price_query.
+looking charger,accessory_search,Response for accessory_search.
+great thanks,thanks,Response for thanks.
+redmi note 14 price,price_query,Response for price_query.
+realme,phone_search,Response for phone_search.
+phone student,recommendation,Response for recommendation.
+hey,greeting,Response for greeting.
+need usbc cable,accessory_search,Response for accessory_search.
+use visa,payment,Response for payment.
+need phone case,accessory_search,Response for accessory_search.
+galaxy s24,availability,Response for availability.
+show usbc cable,accessory_search,Response for accessory_search.
+vivo v50 v vivo v50,comparison,Response for comparison.
+price galaxy s24,price_query,Response for price_query.
+cash accepted,payment,Response for payment.
+oneplus 13 price,price_query,Response for price_query.
+price airpods,accessory_search,Response for accessory_search.
+nice day,goodbye,Response for goodbye.
+vivo v50 available,availability,Response for availability.
+online payment,payment,Response for payment.
+availability iphone 15,availability,Response for availability.
+catch later,goodbye,Response for goodbye.
+stock oneplus 13,availability,Response for availability.
+price phone case,accessory_search,Response for accessory_search.
+better galaxy s24 vivo v50,comparison,Response for comparison.
+compare phone,comparison,Response for comparison.
+cost oneplus 13,price_query,Response for price_query.
+hi,greeting,Response for greeting.
+thanks,thanks,Response for thanks.
+best gaming phone,recommendation,Response for recommendation.
+recommend phone,recommendation,Response for recommendation.
+price power bank,accessory_search,Response for accessory_search.
+latest realme phone,phone_search,Response for phone_search.
+need oppo phone,phone_search,Response for phone_search.
+galaxy s24 v galaxy s24,comparison,Response for comparison.
+realme,phone_search,Response for phone_search.
+show charger,accessory_search,Response for accessory_search.
+great thanks,thanks,Response for thanks.
+availability vivo v50,availability,Response for availability.
+bye,goodbye,Response for goodbye.
+cost vivo v50,price_query,Response for price_query.
+tell price redmi note 14,price_query,Response for price_query.
+recommend phone,recommendation,Response for recommendation.
+goodbye,goodbye,Response for goodbye.
+price airpods,accessory_search,Response for accessory_search.
+looking usbc cable,accessory_search,Response for accessory_search.
+best battery phone,recommendation,Response for recommendation.
+price power bank,accessory_search,Response for accessory_search.
+difference oneplus 13 iphone 15,comparison,Response for comparison.
+thanks lot,thanks,Response for thanks.
+price screen protector,accessory_search,Response for accessory_search.
+charger,accessory_search,Response for accessory_search.
+tell price oppo reno 14,price_query,Response for price_query.
+payment method,payment,Response for payment.
+tell price galaxy s24,price_query,Response for price_query.
+airpods,accessory_search,Response for accessory_search.
+apple,phone_search,Response for phone_search.
+goodbye,goodbye,Response for goodbye.
+catch later,goodbye,Response for goodbye.
+nice day,goodbye,Response for goodbye.
+show power bank,accessory_search,Response for accessory_search.
+use visa,payment,Response for payment.
+best camera phone,recommendation,Response for recommendation.
+payment method,payment,Response for payment.
+recommend phone,recommendation,Response for recommendation.
+hey,greeting,Response for greeting.
+stock oppo reno 14,availability,Response for availability.
+online payment,payment,Response for payment.
+compare galaxy s24 iphone 15,comparison,Response for comparison.
+hey,greeting,Response for greeting.
+nice day,goodbye,Response for goodbye.
+see,goodbye,Response for goodbye.
+best camera phone,recommendation,Response for recommendation.
+phone student,recommendation,Response for recommendation.
+goodbye,goodbye,Response for goodbye.
+online payment,payment,Response for payment.
+oppo reno 14 available,availability,Response for availability.
+compare oneplus 13 redmi note 14,comparison,Response for comparison.
+need vivo phone,phone_search,Response for phone_search.
+online payment,payment,Response for payment.
+much vivo v50,price_query,Response for price_query.
+better oneplus 13 galaxy s24,comparison,Response for comparison.
+payment method,payment,Response for payment.
+latest oneplus phone,phone_search,Response for phone_search.
+need oneplus phone,phone_search,Response for phone_search.
+need samsung phone,phone_search,Response for phone_search.
+vivo v50,availability,Response for availability.
+vivo v50 price,price_query,Response for price_query.
+good evening,greeting,Response for greeting.
+great thanks,thanks,Response for thanks.
+much oneplus 13,price_query,Response for price_query.
+latest samsung phone,phone_search,Response for phone_search.
+better oneplus 13 galaxy s24,comparison,Response for comparison.
+use visa,payment,Response for payment.
+looking charger,accessory_search,Response for accessory_search.
+cash accepted,payment,Response for payment.
+recommend phone,recommendation,Response for recommendation.
+looking usbc cable,accessory_search,Response for accessory_search.
+best battery phone,recommendation,Response for recommendation.
+best camera phone,recommendation,Response for recommendation.
+nice day,goodbye,Response for goodbye.
+show vivo phone,phone_search,Response for phone_search.
+good morning,greeting,Response for greeting.
+hi,greeting,Response for greeting.
+cash accepted,payment,Response for payment.
+redmi note 14 v vivo v50,comparison,Response for comparison.
+much galaxy s24,price_query,Response for price_query.
+availability redmi note 14,availability,Response for availability.
+compare iphone 15 vivo v50,comparison,Response for comparison.
+nice day,goodbye,Response for goodbye.
+need airpods,accessory_search,Response for accessory_search.
+hey,greeting,Response for greeting.
+hello,greeting,Response for greeting.
+better galaxy s24 redmi note 14,comparison,Response for comparison.
+price usbc cable,accessory_search,Response for accessory_search.
+thank,thanks,Response for thanks.
+bye,goodbye,Response for goodbye.
+stock redmi note 14,availability,Response for availability.
+better iphone 15 oppo reno 14,comparison,Response for comparison.
+looking oppo mobile,phone_search,Response for phone_search.
+tell price redmi note 14,price_query,Response for price_query.
+hey,greeting,Response for greeting.
+recommend phone,recommendation,Response for recommendation.
+use visa,payment,Response for payment.
+price oneplus 13,price_query,Response for price_query.
+oneplus,phone_search,Response for phone_search.
+compare oppo reno 14 oppo reno 14,comparison,Response for comparison.
+show airpods,accessory_search,Response for accessory_search.
+difference redmi note 14 iphone 15,comparison,Response for comparison.
+hi,greeting,Response for greeting.
+looking apple mobile,phone_search,Response for phone_search.
+good evening,greeting,Response for greeting.
+goodbye,goodbye,Response for goodbye.
+much oppo reno 14,price_query,Response for price_query.
+latest realme phone,phone_search,Response for phone_search.
+great thanks,thanks,Response for thanks.
+oppo reno 14 price,price_query,Response for price_query.
+iphone 15 available,availability,Response for availability.
+much appreciated,thanks,Response for thanks.
+apple,phone_search,Response for phone_search.
+oneplus 13 available,availability,Response for availability.
+price oppo reno 14,price_query,Response for price_query.
+best gaming phone,recommendation,Response for recommendation.
+cash accepted,payment,Response for payment.
+better redmi note 14 redmi note 14,comparison,Response for comparison.
+best battery phone,recommendation,Response for recommendation.
+tell price iphone 15,price_query,Response for price_query.
+show xiaomi phone,phone_search,Response for phone_search.
+catch later,goodbye,Response for goodbye.
+best camera phone,recommendation,Response for recommendation.
+payment method,payment,Response for payment.
+stock vivo v50,availability,Response for availability.
+power bank,accessory_search,Response for accessory_search.
+show airpods,accessory_search,Response for accessory_search.
+oneplus 13 available,availability,Response for availability.
+buy galaxy s24,availability,Response for availability.
+iphone 15,availability,Response for availability.
+stock vivo v50,availability,Response for availability.
+much appreciated,thanks,Response for thanks.
+bye,goodbye,Response for goodbye.
+much iphone 15,price_query,Response for price_query.
+price galaxy s24,price_query,Response for price_query.
+thanks lot,thanks,Response for thanks.
+use visa,payment,Response for payment.
+good evening,greeting,Response for greeting.
+cost oppo reno 14,price_query,Response for price_query.
+vivo v50 price,price_query,Response for price_query.
+pay card,payment,Response for payment.
+galaxy s24 v oneplus 13,comparison,Response for comparison.
+buy oppo reno 14,availability,Response for availability.
+thank,thanks,Response for thanks.
+best camera phone,recommendation,Response for recommendation.
+better oneplus 13 oppo reno 14,comparison,Response for comparison.
+tell price oneplus 13,price_query,Response for price_query.
+show oneplus phone,phone_search,Response for phone_search.
+best battery phone,recommendation,Response for recommendation.
+cost oneplus 13,price_query,Response for price_query.
+use visa,payment,Response for payment.
+catch later,goodbye,Response for goodbye.
+need apple phone,phone_search,Response for phone_search.
+price oppo reno 14,price_query,Response for price_query.
+much appreciated,thanks,Response for thanks.
+need phone case,accessory_search,Response for accessory_search.
+thank,thanks,Response for thanks.
+hi,greeting,Response for greeting.
+best gaming phone,recommendation,Response for recommendation.
+much appreciated,thanks,Response for thanks.
+show usbc cable,accessory_search,Response for accessory_search.
+cost redmi note 14,price_query,Response for price_query.
+much appreciated,thanks,Response for thanks.
+catch later,goodbye,Response for goodbye.
+good morning,greeting,Response for greeting.
+cash accepted,payment,Response for payment.
+see,goodbye,Response for goodbye.
+bye,goodbye,Response for goodbye.
+online payment,payment,Response for payment.
+thanks,thanks,Response for thanks.
+price iphone 15,price_query,Response for price_query.
+price redmi note 14,price_query,Response for price_query.
+best gaming phone,recommendation,Response for recommendation.
+nice day,goodbye,Response for goodbye.
+best camera phone,recommendation,Response for recommendation.
+bye,goodbye,Response for goodbye.
+buy iphone 15,availability,Response for availability.
+payment method,payment,Response for payment.
+hey,greeting,Response for greeting.
+online payment,payment,Response for payment.
+tell price iphone 15,price_query,Response for price_query.
+good morning,greeting,Response for greeting.
+need airpods,accessory_search,Response for accessory_search.
+airpods,accessory_search,Response for accessory_search.
+use visa,payment,Response for payment.
+see,goodbye,Response for goodbye.
+buy oneplus 13,availability,Response for availability.
+best camera phone,recommendation,Response for recommendation.
+compare phone,comparison,Response for comparison.
+best camera phone,recommendation,Response for recommendation.
+cash accepted,payment,Response for payment.
+looking charger,accessory_search,Response for accessory_search.
+pay card,payment,Response for payment.
+good evening,greeting,Response for greeting.
+looking oppo mobile,phone_search,Response for phone_search.
+thank,thanks,Response for thanks.
+online payment,payment,Response for payment.
+catch later,goodbye,Response for goodbye.
+vivo v50,availability,Response for availability.
+much appreciated,thanks,Response for thanks.
+goodbye,goodbye,Response for goodbye.
+cost oneplus 13,price_query,Response for price_query.
+best camera phone,recommendation,Response for recommendation.
+looking usbc cable,accessory_search,Response for accessory_search.
+price power bank,accessory_search,Response for accessory_search.
+show apple phone,phone_search,Response for phone_search.
+goodbye,goodbye,Response for goodbye.
+looking airpods,accessory_search,Response for accessory_search.
+thanks,thanks,Response for thanks.
+best battery phone,recommendation,Response for recommendation.
+better redmi note 14 iphone 15,comparison,Response for comparison.
+redmi note 14 available,availability,Response for availability.
+payment method,payment,Response for payment.
+hello,greeting,Response for greeting.
+difference redmi note 14 iphone 15,comparison,Response for comparison.
+nice day,goodbye,Response for goodbye.
+tell price oppo reno 14,price_query,Response for price_query.
+best gaming phone,recommendation,Response for recommendation.
+nice day,goodbye,Response for goodbye.
+pay card,payment,Response for payment.
+cash accepted,payment,Response for payment.
+show realme phone,phone_search,Response for phone_search.
+nice day,goodbye,Response for goodbye.
+xiaomi,phone_search,Response for phone_search.
+price vivo v50,price_query,Response for price_query.
+oppo reno 14 price,price_query,Response for price_query.
+best camera phone,recommendation,Response for recommendation.
+best gaming phone,recommendation,Response for recommendation.
+good evening,greeting,Response for greeting.
+availability oneplus 13,availability,Response for availability.
+availability oppo reno 14,availability,Response for availability.
+price redmi note 14,price_query,Response for price_query.
+payment method,payment,Response for payment.
+much oppo reno 14,price_query,Response for price_query.
+looking oppo mobile,phone_search,Response for phone_search.
+great thanks,thanks,Response for thanks.
+goodbye,goodbye,Response for goodbye.
+vivo v50 v redmi note 14,comparison,Response for comparison.
+compare phone,comparison,Response for comparison.
+latest realme phone,phone_search,Response for phone_search.
+difference vivo v50 vivo v50,comparison,Response for comparison.
+nice day,goodbye,Response for goodbye.
+buy vivo v50,availability,Response for availability.
+best gaming phone,recommendation,Response for recommendation.
+hi,greeting,Response for greeting.
+thanks lot,thanks,Response for thanks.
+much appreciated,thanks,Response for thanks.
+buy oneplus 13,availability,Response for availability.
+nice day,goodbye,Response for goodbye.
+nice day,goodbye,Response for goodbye.
+redmi note 14 price,price_query,Response for price_query.
+stock iphone 15,availability,Response for availability.
+online payment,payment,Response for payment.
+use visa,payment,Response for payment.
+looking charger,accessory_search,Response for accessory_search.
+tell price vivo v50,price_query,Response for price_query.
+need phone case,accessory_search,Response for accessory_search.
+vivo v50,availability,Response for availability.
+use visa,payment,Response for payment.
+goodbye,goodbye,Response for goodbye.
+much iphone 15,price_query,Response for price_query.
+price power bank,accessory_search,Response for accessory_search.
+compare phone,comparison,Response for comparison.
+vivo v50,availability,Response for availability.
+compare phone,comparison,Response for comparison.
+buy oppo reno 14,availability,Response for availability.
+vivo v50,availability,Response for availability.
+much vivo v50,price_query,Response for price_query.
+price power bank,accessory_search,Response for accessory_search.
+buy iphone 15,availability,Response for availability.
+hey,greeting,Response for greeting.
+difference galaxy s24 oppo reno 14,comparison,Response for comparison.
+vivo v50 available,availability,Response for availability.
+difference oneplus 13 redmi note 14,comparison,Response for comparison.
+good morning,greeting,Response for greeting.
+need samsung phone,phone_search,Response for phone_search.
+stock redmi note 14,availability,Response for availability.
+galaxy s24,availability,Response for availability.
+good evening,greeting,Response for greeting.
+use visa,payment,Response for payment.
+screen protector,accessory_search,Response for accessory_search.
+hi,greeting,Response for greeting.
+price charger,accessory_search,Response for accessory_search.
+much galaxy s24,price_query,Response for price_query.
+compare phone,comparison,Response for comparison.
+cash accepted,payment,Response for payment.
+much appreciated,thanks,Response for thanks.
+screen protector,accessory_search,Response for accessory_search.
+nice day,goodbye,Response for goodbye.
+good evening,greeting,Response for greeting.
+oneplus 13 price,price_query,Response for price_query.
+better oneplus 13 redmi note 14,comparison,Response for comparison.
+best battery phone,recommendation,Response for recommendation.
+bye,goodbye,Response for goodbye.
+much appreciated,thanks,Response for thanks.
