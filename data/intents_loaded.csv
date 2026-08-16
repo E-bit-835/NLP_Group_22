@@ -1,0 +1,1001 @@
+text,intent,response
+Catch you later,goodbye,Response for goodbye.
+Hi,greeting,Response for greeting.
+Good morning,greeting,Response for greeting.
+Cost of Redmi Note 14,price_query,Response for price_query.
+Availability of Galaxy S24,availability,Response for availability.
+Difference between iPhone 15 and Redmi Note 14,comparison,Response for comparison.
+See you,goodbye,Response for goodbye.
+Need a charger,accessory_search,Response for accessory_search.
+Goodbye,goodbye,Response for goodbye.
+Price of screen protector,accessory_search,Response for accessory_search.
+Vivo V50 vs iPhone 15,comparison,Response for comparison.
+Hey,greeting,Response for greeting.
+Compare Vivo V50 and Oppo Reno 14,comparison,Response for comparison.
+Hey,greeting,Response for greeting.
+Price of screen protector,accessory_search,Response for accessory_search.
+Best camera phone,recommendation,Response for recommendation.
+Show phone case,accessory_search,Response for accessory_search.
+Phone for students,recommendation,Response for recommendation.
+Difference between iPhone 15 and Vivo V50,comparison,Response for comparison.
+Price of Galaxy S24,price_query,Response for price_query.
+Looking for power bank,accessory_search,Response for accessory_search.
+Price of power bank,accessory_search,Response for accessory_search.
+Hey,greeting,Response for greeting.
+Recommend a phone,recommendation,Response for recommendation.
+Compare these phones,comparison,Response for comparison.
+Which is better Oppo Reno 14 or iPhone 15?,comparison,Response for comparison.
+Great thanks,thanks,Response for thanks.
+Good morning,greeting,Response for greeting.
+Need a AirPods,accessory_search,Response for accessory_search.
+Show me Samsung phones,phone_search,Response for phone_search.
+Tell me the price of Vivo V50,price_query,Response for price_query.
+Difference between OnePlus 13 and Redmi Note 14,comparison,Response for comparison.
+Show charger,accessory_search,Response for accessory_search.
+Bye,goodbye,Response for goodbye.
+In stock Oppo Reno 14?,availability,Response for availability.
+Looking for Samsung mobiles,phone_search,Response for phone_search.
+Best battery phone,recommendation,Response for recommendation.
+Best gaming phone,recommendation,Response for recommendation.
+Looking for USB-C cable,accessory_search,Response for accessory_search.
+Do you have power bank?,accessory_search,Response for accessory_search.
+Best gaming phone,recommendation,Response for recommendation.
+Cost of Vivo V50,price_query,Response for price_query.
+Can I pay by card?,payment,Response for payment.
+I need a Vivo phone,phone_search,Response for phone_search.
+How much is Vivo V50?,price_query,Response for price_query.
+Need a AirPods,accessory_search,Response for accessory_search.
+Can I use Visa?,payment,Response for payment.
+Which is better Vivo V50 or Galaxy S24?,comparison,Response for comparison.
+Difference between Vivo V50 and Redmi Note 14,comparison,Response for comparison.
+Compare these phones,comparison,Response for comparison.
+Thanks,thanks,Response for thanks.
+Show me OnePlus phones,phone_search,Response for phone_search.
+Have a nice day,goodbye,Response for goodbye.
+Goodbye,goodbye,Response for goodbye.
+How much is Redmi Note 14?,price_query,Response for price_query.
+Price of USB-C cable,accessory_search,Response for accessory_search.
+Hi,greeting,Response for greeting.
+Show charger,accessory_search,Response for accessory_search.
+Can I buy iPhone 15?,availability,Response for availability.
+iPhone 15 price,price_query,Response for price_query.
+How much is iPhone 15?,price_query,Response for price_query.
+Looking for power bank,accessory_search,Response for accessory_search.
+Hi,greeting,Response for greeting.
+Galaxy S24 vs Galaxy S24,comparison,Response for comparison.
+Can I use Visa?,payment,Response for payment.
+Availability of iPhone 15,availability,Response for availability.
+Best battery phone,recommendation,Response for recommendation.
+Much appreciated,thanks,Response for thanks.
+Good morning,greeting,Response for greeting.
+Bye,goodbye,Response for goodbye.
+Show me Realme phones,phone_search,Response for phone_search.
+Thanks,thanks,Response for thanks.
+Cash accepted?,payment,Response for payment.
+Thanks a lot,thanks,Response for thanks.
+Best camera phone,recommendation,Response for recommendation.
+Difference between Galaxy S24 and OnePlus 13,comparison,Response for comparison.
+Cash accepted?,payment,Response for payment.
+Compare Redmi Note 14 and Redmi Note 14,comparison,Response for comparison.
+Online payment?,payment,Response for payment.
+Goodbye,goodbye,Response for goodbye.
+Looking for OnePlus mobiles,phone_search,Response for phone_search.
+See you,goodbye,Response for goodbye.
+OnePlus 13 price,price_query,Response for price_query.
+I need a Oppo phone,phone_search,Response for phone_search.
+Do you have Oppo Reno 14 now?,availability,Response for availability.
+Can I buy iPhone 15?,availability,Response for availability.
+Need a phone case,accessory_search,Response for accessory_search.
+Good morning,greeting,Response for greeting.
+Payment methods,payment,Response for payment.
+Thank you,thanks,Response for thanks.
+Catch you later,goodbye,Response for goodbye.
+Do you have Realme?,phone_search,Response for phone_search.
+Much appreciated,thanks,Response for thanks.
+Bye,goodbye,Response for goodbye.
+Difference between iPhone 15 and Oppo Reno 14,comparison,Response for comparison.
+Do you have Redmi Note 14 now?,availability,Response for availability.
+Cost of Redmi Note 14,price_query,Response for price_query.
+See you,goodbye,Response for goodbye.
+Availability of Vivo V50,availability,Response for availability.
+Online payment?,payment,Response for payment.
+Availability of Redmi Note 14,availability,Response for availability.
+Can I use Visa?,payment,Response for payment.
+Great thanks,thanks,Response for thanks.
+Need a USB-C cable,accessory_search,Response for accessory_search.
+Good morning,greeting,Response for greeting.
+Redmi Note 14 price,price_query,Response for price_query.
+Hey,greeting,Response for greeting.
+In stock Galaxy S24?,availability,Response for availability.
+Great thanks,thanks,Response for thanks.
+Compare OnePlus 13 and Oppo Reno 14,comparison,Response for comparison.
+Difference between iPhone 15 and OnePlus 13,comparison,Response for comparison.
+Best camera phone,recommendation,Response for recommendation.
+Thanks,thanks,Response for thanks.
+Recommend a phone,recommendation,Response for recommendation.
+Phone for students,recommendation,Response for recommendation.
+Have a nice day,goodbye,Response for goodbye.
+Show me Apple phones,phone_search,Response for phone_search.
+Catch you later,goodbye,Response for goodbye.
+Is iPhone 15 available?,availability,Response for availability.
+Is OnePlus 13 available?,availability,Response for availability.
+Compare these phones,comparison,Response for comparison.
+Hey,greeting,Response for greeting.
+How much is Redmi Note 14?,price_query,Response for price_query.
+Have a nice day,goodbye,Response for goodbye.
+Need a power bank,accessory_search,Response for accessory_search.
+Hi,greeting,Response for greeting.
+Can I pay by card?,payment,Response for payment.
+Cost of OnePlus 13,price_query,Response for price_query.
+Do you have USB-C cable?,accessory_search,Response for accessory_search.
+Hello,greeting,Response for greeting.
+Price of iPhone 15,price_query,Response for price_query.
+Hi,greeting,Response for greeting.
+Looking for Realme mobiles,phone_search,Response for phone_search.
+Show me Xiaomi phones,phone_search,Response for phone_search.
+Catch you later,goodbye,Response for goodbye.
+Thanks,thanks,Response for thanks.
+Cash accepted?,payment,Response for payment.
+Need a USB-C cable,accessory_search,Response for accessory_search.
+Looking for OnePlus mobiles,phone_search,Response for phone_search.
+Much appreciated,thanks,Response for thanks.
+Payment methods,payment,Response for payment.
+Compare OnePlus 13 and Galaxy S24,comparison,Response for comparison.
+Have a nice day,goodbye,Response for goodbye.
+Hi,greeting,Response for greeting.
+Thank you,thanks,Response for thanks.
+Show me Vivo phones,phone_search,Response for phone_search.
+Online payment?,payment,Response for payment.
+Best gaming phone,recommendation,Response for recommendation.
+Can I use Visa?,payment,Response for payment.
+See you,goodbye,Response for goodbye.
+I need a Realme phone,phone_search,Response for phone_search.
+Payment methods,payment,Response for payment.
+Much appreciated,thanks,Response for thanks.
+Good morning,greeting,Response for greeting.
+Price of Redmi Note 14,price_query,Response for price_query.
+Do you have Galaxy S24 now?,availability,Response for availability.
+Vivo V50 price,price_query,Response for price_query.
+Do you have Apple?,phone_search,Response for phone_search.
+Hey,greeting,Response for greeting.
+Tell me the price of Galaxy S24,price_query,Response for price_query.
+See you,goodbye,Response for goodbye.
+Do you have charger?,accessory_search,Response for accessory_search.
+In stock Redmi Note 14?,availability,Response for availability.
+Best gaming phone,recommendation,Response for recommendation.
+Price of phone case,accessory_search,Response for accessory_search.
+Catch you later,goodbye,Response for goodbye.
+Phone for students,recommendation,Response for recommendation.
+Thank you,thanks,Response for thanks.
+Great thanks,thanks,Response for thanks.
+Good morning,greeting,Response for greeting.
+Recommend a phone,recommendation,Response for recommendation.
+Do you have Realme?,phone_search,Response for phone_search.
+Thank you,thanks,Response for thanks.
+Much appreciated,thanks,Response for thanks.
+Cost of iPhone 15,price_query,Response for price_query.
+Difference between Vivo V50 and OnePlus 13,comparison,Response for comparison.
+Which is better Galaxy S24 or Galaxy S24?,comparison,Response for comparison.
+Phone for students,recommendation,Response for recommendation.
+Payment methods,payment,Response for payment.
+Can I use Visa?,payment,Response for payment.
+Phone for students,recommendation,Response for recommendation.
+Which is better Redmi Note 14 or Vivo V50?,comparison,Response for comparison.
+Catch you later,goodbye,Response for goodbye.
+Good evening,greeting,Response for greeting.
+Recommend a phone,recommendation,Response for recommendation.
+Best battery phone,recommendation,Response for recommendation.
+Latest Samsung phones,phone_search,Response for phone_search.
+Catch you later,goodbye,Response for goodbye.
+Have a nice day,goodbye,Response for goodbye.
+Thank you,thanks,Response for thanks.
+Recommend a phone,recommendation,Response for recommendation.
+Need a USB-C cable,accessory_search,Response for accessory_search.
+Hello,greeting,Response for greeting.
+Thank you,thanks,Response for thanks.
+Good morning,greeting,Response for greeting.
+Can I pay by card?,payment,Response for payment.
+Much appreciated,thanks,Response for thanks.
+Recommend a phone,recommendation,Response for recommendation.
+Compare iPhone 15 and OnePlus 13,comparison,Response for comparison.
+Looking for Xiaomi mobiles,phone_search,Response for phone_search.
+Compare Vivo V50 and Oppo Reno 14,comparison,Response for comparison.
+Recommend a phone,recommendation,Response for recommendation.
+Best camera phone,recommendation,Response for recommendation.
+Looking for Xiaomi mobiles,phone_search,Response for phone_search.
+Can I pay by card?,payment,Response for payment.
+Redmi Note 14 vs iPhone 15,comparison,Response for comparison.
+Can I pay by card?,payment,Response for payment.
+Much appreciated,thanks,Response for thanks.
+Much appreciated,thanks,Response for thanks.
+Cash accepted?,payment,Response for payment.
+Galaxy S24 price,price_query,Response for price_query.
+Compare Oppo Reno 14 and iPhone 15,comparison,Response for comparison.
+Good morning,greeting,Response for greeting.
+Have a nice day,goodbye,Response for goodbye.
+Price of USB-C cable,accessory_search,Response for accessory_search.
+Do you have OnePlus 13 now?,availability,Response for availability.
+Looking for Apple mobiles,phone_search,Response for phone_search.
+Can I pay by card?,payment,Response for payment.
+Do you have Vivo V50 now?,availability,Response for availability.
+Best gaming phone,recommendation,Response for recommendation.
+Hi,greeting,Response for greeting.
+Galaxy S24 price,price_query,Response for price_query.
+Good evening,greeting,Response for greeting.
+Price of Oppo Reno 14,price_query,Response for price_query.
+Best gaming phone,recommendation,Response for recommendation.
+Have a nice day,goodbye,Response for goodbye.
+Show me Xiaomi phones,phone_search,Response for phone_search.
+Hello,greeting,Response for greeting.
+OnePlus 13 vs Oppo Reno 14,comparison,Response for comparison.
+Can I use Visa?,payment,Response for payment.
+Looking for Apple mobiles,phone_search,Response for phone_search.
+How much is Redmi Note 14?,price_query,Response for price_query.
+Goodbye,goodbye,Response for goodbye.
+Hey,greeting,Response for greeting.
+Latest Vivo phones,phone_search,Response for phone_search.
+Can I pay by card?,payment,Response for payment.
+Recommend a phone,recommendation,Response for recommendation.
+Much appreciated,thanks,Response for thanks.
+Do you have phone case?,accessory_search,Response for accessory_search.
+Can I pay by card?,payment,Response for payment.
+Best gaming phone,recommendation,Response for recommendation.
+Good morning,greeting,Response for greeting.
+Hello,greeting,Response for greeting.
+Good morning,greeting,Response for greeting.
+Looking for OnePlus mobiles,phone_search,Response for phone_search.
+Oppo Reno 14 vs Galaxy S24,comparison,Response for comparison.
+Show me OnePlus phones,phone_search,Response for phone_search.
+Hi,greeting,Response for greeting.
+Looking for Xiaomi mobiles,phone_search,Response for phone_search.
+Difference between Oppo Reno 14 and Redmi Note 14,comparison,Response for comparison.
+Latest OnePlus phones,phone_search,Response for phone_search.
+See you,goodbye,Response for goodbye.
+Hi,greeting,Response for greeting.
+Much appreciated,thanks,Response for thanks.
+Bye,goodbye,Response for goodbye.
+Compare Vivo V50 and Galaxy S24,comparison,Response for comparison.
+Much appreciated,thanks,Response for thanks.
+Price of AirPods,accessory_search,Response for accessory_search.
+Looking for AirPods,accessory_search,Response for accessory_search.
+Which is better Oppo Reno 14 or Oppo Reno 14?,comparison,Response for comparison.
+Do you have Apple?,phone_search,Response for phone_search.
+Goodbye,goodbye,Response for goodbye.
+Online payment?,payment,Response for payment.
+Goodbye,goodbye,Response for goodbye.
+Cash accepted?,payment,Response for payment.
+Do you have OnePlus 13 now?,availability,Response for availability.
+I need a Oppo phone,phone_search,Response for phone_search.
+Hi,greeting,Response for greeting.
+Difference between Redmi Note 14 and Vivo V50,comparison,Response for comparison.
+Thanks a lot,thanks,Response for thanks.
+Great thanks,thanks,Response for thanks.
+Which is better Vivo V50 or iPhone 15?,comparison,Response for comparison.
+Which is better OnePlus 13 or iPhone 15?,comparison,Response for comparison.
+Availability of OnePlus 13,availability,Response for availability.
+Price of charger,accessory_search,Response for accessory_search.
+Need a charger,accessory_search,Response for accessory_search.
+Vivo V50 vs OnePlus 13,comparison,Response for comparison.
+In stock Vivo V50?,availability,Response for availability.
+Compare Galaxy S24 and Galaxy S24,comparison,Response for comparison.
+Need a phone case,accessory_search,Response for accessory_search.
+Great thanks,thanks,Response for thanks.
+Best camera phone,recommendation,Response for recommendation.
+Latest Apple phones,phone_search,Response for phone_search.
+Payment methods,payment,Response for payment.
+Latest Apple phones,phone_search,Response for phone_search.
+Do you have iPhone 15 now?,availability,Response for availability.
+Price of Galaxy S24,price_query,Response for price_query.
+Do you have Samsung?,phone_search,Response for phone_search.
+Thank you,thanks,Response for thanks.
+Great thanks,thanks,Response for thanks.
+Cost of Oppo Reno 14,price_query,Response for price_query.
+Great thanks,thanks,Response for thanks.
+Need a USB-C cable,accessory_search,Response for accessory_search.
+Looking for OnePlus mobiles,phone_search,Response for phone_search.
+Tell me the price of Galaxy S24,price_query,Response for price_query.
+Thanks a lot,thanks,Response for thanks.
+Compare these phones,comparison,Response for comparison.
+Which is better OnePlus 13 or Galaxy S24?,comparison,Response for comparison.
+Looking for Realme mobiles,phone_search,Response for phone_search.
+Price of Oppo Reno 14,price_query,Response for price_query.
+Latest Apple phones,phone_search,Response for phone_search.
+Is Galaxy S24 available?,availability,Response for availability.
+Price of screen protector,accessory_search,Response for accessory_search.
+Can I use Visa?,payment,Response for payment.
+Bye,goodbye,Response for goodbye.
+Thank you,thanks,Response for thanks.
+Do you have USB-C cable?,accessory_search,Response for accessory_search.
+Good evening,greeting,Response for greeting.
+Which is better Vivo V50 or Redmi Note 14?,comparison,Response for comparison.
+Thank you,thanks,Response for thanks.
+iPhone 15 vs Vivo V50,comparison,Response for comparison.
+Do you have phone case?,accessory_search,Response for accessory_search.
+Tell me the price of Oppo Reno 14,price_query,Response for price_query.
+Cost of Galaxy S24,price_query,Response for price_query.
+Much appreciated,thanks,Response for thanks.
+Thanks,thanks,Response for thanks.
+Thank you,thanks,Response for thanks.
+Online payment?,payment,Response for payment.
+Cost of Vivo V50,price_query,Response for price_query.
+Show power bank,accessory_search,Response for accessory_search.
+Online payment?,payment,Response for payment.
+Goodbye,goodbye,Response for goodbye.
+Cash accepted?,payment,Response for payment.
+Much appreciated,thanks,Response for thanks.
+Show phone case,accessory_search,Response for accessory_search.
+Thanks a lot,thanks,Response for thanks.
+Can I use Visa?,payment,Response for payment.
+Goodbye,goodbye,Response for goodbye.
+Show me Xiaomi phones,phone_search,Response for phone_search.
+Galaxy S24 vs Vivo V50,comparison,Response for comparison.
+Hey,greeting,Response for greeting.
+Show me Vivo phones,phone_search,Response for phone_search.
+Price of USB-C cable,accessory_search,Response for accessory_search.
+Best gaming phone,recommendation,Response for recommendation.
+Can I use Visa?,payment,Response for payment.
+Show AirPods,accessory_search,Response for accessory_search.
+Goodbye,goodbye,Response for goodbye.
+Looking for phone case,accessory_search,Response for accessory_search.
+Good morning,greeting,Response for greeting.
+Looking for Vivo mobiles,phone_search,Response for phone_search.
+Can I buy iPhone 15?,availability,Response for availability.
+Compare Vivo V50 and iPhone 15,comparison,Response for comparison.
+Thanks a lot,thanks,Response for thanks.
+Can I pay by card?,payment,Response for payment.
+Cost of Vivo V50,price_query,Response for price_query.
+Good evening,greeting,Response for greeting.
+Looking for Realme mobiles,phone_search,Response for phone_search.
+Thanks,thanks,Response for thanks.
+Price of AirPods,accessory_search,Response for accessory_search.
+Best battery phone,recommendation,Response for recommendation.
+In stock Redmi Note 14?,availability,Response for availability.
+Much appreciated,thanks,Response for thanks.
+Tell me the price of iPhone 15,price_query,Response for price_query.
+Bye,goodbye,Response for goodbye.
+Cash accepted?,payment,Response for payment.
+Good morning,greeting,Response for greeting.
+Best gaming phone,recommendation,Response for recommendation.
+Price of Vivo V50,price_query,Response for price_query.
+Best camera phone,recommendation,Response for recommendation.
+Latest Vivo phones,phone_search,Response for phone_search.
+Latest Apple phones,phone_search,Response for phone_search.
+Compare these phones,comparison,Response for comparison.
+Payment methods,payment,Response for payment.
+Can I pay by card?,payment,Response for payment.
+Best camera phone,recommendation,Response for recommendation.
+Cost of Redmi Note 14,price_query,Response for price_query.
+Latest Realme phones,phone_search,Response for phone_search.
+Recommend a phone,recommendation,Response for recommendation.
+Can I use Visa?,payment,Response for payment.
+Online payment?,payment,Response for payment.
+Payment methods,payment,Response for payment.
+Can I buy Oppo Reno 14?,availability,Response for availability.
+See you,goodbye,Response for goodbye.
+iPhone 15 price,price_query,Response for price_query.
+Recommend a phone,recommendation,Response for recommendation.
+Goodbye,goodbye,Response for goodbye.
+Good morning,greeting,Response for greeting.
+Need a power bank,accessory_search,Response for accessory_search.
+Best camera phone,recommendation,Response for recommendation.
+Do you have Xiaomi?,phone_search,Response for phone_search.
+Need a power bank,accessory_search,Response for accessory_search.
+In stock OnePlus 13?,availability,Response for availability.
+Tell me the price of OnePlus 13,price_query,Response for price_query.
+Have a nice day,goodbye,Response for goodbye.
+Show screen protector,accessory_search,Response for accessory_search.
+Do you have phone case?,accessory_search,Response for accessory_search.
+Cash accepted?,payment,Response for payment.
+Redmi Note 14 price,price_query,Response for price_query.
+Hey,greeting,Response for greeting.
+Do you have Vivo V50 now?,availability,Response for availability.
+Cost of Redmi Note 14,price_query,Response for price_query.
+Cash accepted?,payment,Response for payment.
+Cost of Galaxy S24,price_query,Response for price_query.
+Can I buy Galaxy S24?,availability,Response for availability.
+Best battery phone,recommendation,Response for recommendation.
+Thank you,thanks,Response for thanks.
+I need a Realme phone,phone_search,Response for phone_search.
+Which is better Galaxy S24 or Galaxy S24?,comparison,Response for comparison.
+Great thanks,thanks,Response for thanks.
+Compare these phones,comparison,Response for comparison.
+Show me OnePlus phones,phone_search,Response for phone_search.
+How much is Galaxy S24?,price_query,Response for price_query.
+Bye,goodbye,Response for goodbye.
+Online payment?,payment,Response for payment.
+Can I pay by card?,payment,Response for payment.
+Best gaming phone,recommendation,Response for recommendation.
+See you,goodbye,Response for goodbye.
+Hi,greeting,Response for greeting.
+Hello,greeting,Response for greeting.
+Cost of iPhone 15,price_query,Response for price_query.
+Hello,greeting,Response for greeting.
+Have a nice day,goodbye,Response for goodbye.
+Best battery phone,recommendation,Response for recommendation.
+Show power bank,accessory_search,Response for accessory_search.
+Phone for students,recommendation,Response for recommendation.
+Show power bank,accessory_search,Response for accessory_search.
+Need a charger,accessory_search,Response for accessory_search.
+Looking for screen protector,accessory_search,Response for accessory_search.
+Show AirPods,accessory_search,Response for accessory_search.
+Difference between Vivo V50 and Vivo V50,comparison,Response for comparison.
+In stock OnePlus 13?,availability,Response for availability.
+Price of USB-C cable,accessory_search,Response for accessory_search.
+I need a Vivo phone,phone_search,Response for phone_search.
+Catch you later,goodbye,Response for goodbye.
+Can I buy Galaxy S24?,availability,Response for availability.
+Best gaming phone,recommendation,Response for recommendation.
+Online payment?,payment,Response for payment.
+Thanks a lot,thanks,Response for thanks.
+Do you have phone case?,accessory_search,Response for accessory_search.
+Galaxy S24 price,price_query,Response for price_query.
+Oppo Reno 14 price,price_query,Response for price_query.
+Payment methods,payment,Response for payment.
+Cost of Oppo Reno 14,price_query,Response for price_query.
+iPhone 15 vs Vivo V50,comparison,Response for comparison.
+Thanks a lot,thanks,Response for thanks.
+Looking for Oppo mobiles,phone_search,Response for phone_search.
+Looking for Oppo mobiles,phone_search,Response for phone_search.
+Payment methods,payment,Response for payment.
+Best gaming phone,recommendation,Response for recommendation.
+Thanks a lot,thanks,Response for thanks.
+Thanks a lot,thanks,Response for thanks.
+Online payment?,payment,Response for payment.
+Thanks,thanks,Response for thanks.
+Do you have iPhone 15 now?,availability,Response for availability.
+Need a USB-C cable,accessory_search,Response for accessory_search.
+Galaxy S24 vs Redmi Note 14,comparison,Response for comparison.
+See you,goodbye,Response for goodbye.
+Which is better Redmi Note 14 or Redmi Note 14?,comparison,Response for comparison.
+Is Vivo V50 available?,availability,Response for availability.
+Cost of Vivo V50,price_query,Response for price_query.
+Show me Xiaomi phones,phone_search,Response for phone_search.
+Much appreciated,thanks,Response for thanks.
+Thank you,thanks,Response for thanks.
+Online payment?,payment,Response for payment.
+Can I pay by card?,payment,Response for payment.
+Good evening,greeting,Response for greeting.
+Good evening,greeting,Response for greeting.
+Best battery phone,recommendation,Response for recommendation.
+Availability of Galaxy S24,availability,Response for availability.
+Good morning,greeting,Response for greeting.
+Great thanks,thanks,Response for thanks.
+Do you have Apple?,phone_search,Response for phone_search.
+Which is better Galaxy S24 or Oppo Reno 14?,comparison,Response for comparison.
+Thank you,thanks,Response for thanks.
+Hi,greeting,Response for greeting.
+Catch you later,goodbye,Response for goodbye.
+Price of charger,accessory_search,Response for accessory_search.
+In stock Redmi Note 14?,availability,Response for availability.
+See you,goodbye,Response for goodbye.
+Hey,greeting,Response for greeting.
+Tell me the price of Vivo V50,price_query,Response for price_query.
+Much appreciated,thanks,Response for thanks.
+Can I use Visa?,payment,Response for payment.
+Phone for students,recommendation,Response for recommendation.
+Hi,greeting,Response for greeting.
+Best gaming phone,recommendation,Response for recommendation.
+Can I pay by card?,payment,Response for payment.
+Hello,greeting,Response for greeting.
+Availability of Oppo Reno 14,availability,Response for availability.
+Tell me the price of Oppo Reno 14,price_query,Response for price_query.
+Hey,greeting,Response for greeting.
+Online payment?,payment,Response for payment.
+Thank you,thanks,Response for thanks.
+Price of USB-C cable,accessory_search,Response for accessory_search.
+Show me Vivo phones,phone_search,Response for phone_search.
+Thanks a lot,thanks,Response for thanks.
+Best gaming phone,recommendation,Response for recommendation.
+In stock iPhone 15?,availability,Response for availability.
+Oppo Reno 14 price,price_query,Response for price_query.
+Compare Galaxy S24 and Redmi Note 14,comparison,Response for comparison.
+Is OnePlus 13 available?,availability,Response for availability.
+Price of AirPods,accessory_search,Response for accessory_search.
+Best gaming phone,recommendation,Response for recommendation.
+Show phone case,accessory_search,Response for accessory_search.
+Thanks,thanks,Response for thanks.
+Do you have AirPods?,accessory_search,Response for accessory_search.
+Need a screen protector,accessory_search,Response for accessory_search.
+Vivo V50 price,price_query,Response for price_query.
+Phone for students,recommendation,Response for recommendation.
+Redmi Note 14 vs Galaxy S24,comparison,Response for comparison.
+Need a charger,accessory_search,Response for accessory_search.
+See you,goodbye,Response for goodbye.
+Thanks a lot,thanks,Response for thanks.
+Compare OnePlus 13 and Galaxy S24,comparison,Response for comparison.
+Hey,greeting,Response for greeting.
+Best battery phone,recommendation,Response for recommendation.
+Need a USB-C cable,accessory_search,Response for accessory_search.
+Price of Galaxy S24,price_query,Response for price_query.
+Is Redmi Note 14 available?,availability,Response for availability.
+Thanks,thanks,Response for thanks.
+Is Oppo Reno 14 available?,availability,Response for availability.
+Recommend a phone,recommendation,Response for recommendation.
+iPhone 15 vs Galaxy S24,comparison,Response for comparison.
+Cost of Redmi Note 14,price_query,Response for price_query.
+Compare these phones,comparison,Response for comparison.
+Online payment?,payment,Response for payment.
+Availability of Redmi Note 14,availability,Response for availability.
+Good morning,greeting,Response for greeting.
+Which is better OnePlus 13 or Vivo V50?,comparison,Response for comparison.
+Oppo Reno 14 price,price_query,Response for price_query.
+I need a OnePlus phone,phone_search,Response for phone_search.
+I need a Vivo phone,phone_search,Response for phone_search.
+Galaxy S24 vs Oppo Reno 14,comparison,Response for comparison.
+Looking for Realme mobiles,phone_search,Response for phone_search.
+Do you have AirPods?,accessory_search,Response for accessory_search.
+Looking for phone case,accessory_search,Response for accessory_search.
+Tell me the price of OnePlus 13,price_query,Response for price_query.
+Much appreciated,thanks,Response for thanks.
+Much appreciated,thanks,Response for thanks.
+Hey,greeting,Response for greeting.
+Goodbye,goodbye,Response for goodbye.
+Recommend a phone,recommendation,Response for recommendation.
+Looking for power bank,accessory_search,Response for accessory_search.
+Hi,greeting,Response for greeting.
+Thanks,thanks,Response for thanks.
+Have a nice day,goodbye,Response for goodbye.
+Show screen protector,accessory_search,Response for accessory_search.
+Good evening,greeting,Response for greeting.
+In stock OnePlus 13?,availability,Response for availability.
+Much appreciated,thanks,Response for thanks.
+Price of phone case,accessory_search,Response for accessory_search.
+Price of power bank,accessory_search,Response for accessory_search.
+Do you have OnePlus 13 now?,availability,Response for availability.
+Can I pay by card?,payment,Response for payment.
+Hello,greeting,Response for greeting.
+See you,goodbye,Response for goodbye.
+Difference between Galaxy S24 and Redmi Note 14,comparison,Response for comparison.
+Have a nice day,goodbye,Response for goodbye.
+Latest Xiaomi phones,phone_search,Response for phone_search.
+Best gaming phone,recommendation,Response for recommendation.
+Looking for Apple mobiles,phone_search,Response for phone_search.
+Bye,goodbye,Response for goodbye.
+Payment methods,payment,Response for payment.
+Best battery phone,recommendation,Response for recommendation.
+Do you have Xiaomi?,phone_search,Response for phone_search.
+Price of phone case,accessory_search,Response for accessory_search.
+Goodbye,goodbye,Response for goodbye.
+Catch you later,goodbye,Response for goodbye.
+Show me Apple phones,phone_search,Response for phone_search.
+Payment methods,payment,Response for payment.
+How much is OnePlus 13?,price_query,Response for price_query.
+Best gaming phone,recommendation,Response for recommendation.
+Is Vivo V50 available?,availability,Response for availability.
+In stock Vivo V50?,availability,Response for availability.
+Good morning,greeting,Response for greeting.
+In stock Redmi Note 14?,availability,Response for availability.
+Compare these phones,comparison,Response for comparison.
+Goodbye,goodbye,Response for goodbye.
+Thank you,thanks,Response for thanks.
+Hi,greeting,Response for greeting.
+Goodbye,goodbye,Response for goodbye.
+How much is Oppo Reno 14?,price_query,Response for price_query.
+Recommend a phone,recommendation,Response for recommendation.
+Compare Vivo V50 and Oppo Reno 14,comparison,Response for comparison.
+Do you have Samsung?,phone_search,Response for phone_search.
+Hello,greeting,Response for greeting.
+Do you have Redmi Note 14 now?,availability,Response for availability.
+Redmi Note 14 price,price_query,Response for price_query.
+Hello,greeting,Response for greeting.
+Price of Redmi Note 14,price_query,Response for price_query.
+Can I pay by card?,payment,Response for payment.
+How much is iPhone 15?,price_query,Response for price_query.
+Can I buy iPhone 15?,availability,Response for availability.
+Hello,greeting,Response for greeting.
+Price of iPhone 15,price_query,Response for price_query.
+Compare these phones,comparison,Response for comparison.
+Can I use Visa?,payment,Response for payment.
+Recommend a phone,recommendation,Response for recommendation.
+Show charger,accessory_search,Response for accessory_search.
+How much is Galaxy S24?,price_query,Response for price_query.
+Thanks,thanks,Response for thanks.
+Compare OnePlus 13 and iPhone 15,comparison,Response for comparison.
+Thank you,thanks,Response for thanks.
+Price of Galaxy S24,price_query,Response for price_query.
+Best gaming phone,recommendation,Response for recommendation.
+Best gaming phone,recommendation,Response for recommendation.
+Hi,greeting,Response for greeting.
+Difference between Redmi Note 14 and OnePlus 13,comparison,Response for comparison.
+Do you have Oppo?,phone_search,Response for phone_search.
+Much appreciated,thanks,Response for thanks.
+Thank you,thanks,Response for thanks.
+I need a Vivo phone,phone_search,Response for phone_search.
+Best battery phone,recommendation,Response for recommendation.
+Best gaming phone,recommendation,Response for recommendation.
+How much is Redmi Note 14?,price_query,Response for price_query.
+Bye,goodbye,Response for goodbye.
+Do you have Oppo?,phone_search,Response for phone_search.
+Need a power bank,accessory_search,Response for accessory_search.
+Looking for AirPods,accessory_search,Response for accessory_search.
+Recommend a phone,recommendation,Response for recommendation.
+Catch you later,goodbye,Response for goodbye.
+Hey,greeting,Response for greeting.
+Goodbye,goodbye,Response for goodbye.
+Is Vivo V50 available?,availability,Response for availability.
+Payment methods,payment,Response for payment.
+Latest Realme phones,phone_search,Response for phone_search.
+Hi,greeting,Response for greeting.
+Do you have charger?,accessory_search,Response for accessory_search.
+Best battery phone,recommendation,Response for recommendation.
+Can I buy Vivo V50?,availability,Response for availability.
+iPhone 15 vs Oppo Reno 14,comparison,Response for comparison.
+Price of Oppo Reno 14,price_query,Response for price_query.
+Best gaming phone,recommendation,Response for recommendation.
+Show USB-C cable,accessory_search,Response for accessory_search.
+Latest Oppo phones,phone_search,Response for phone_search.
+Recommend a phone,recommendation,Response for recommendation.
+Online payment?,payment,Response for payment.
+Can I use Visa?,payment,Response for payment.
+Hey,greeting,Response for greeting.
+How much is OnePlus 13?,price_query,Response for price_query.
+Can I pay by card?,payment,Response for payment.
+Galaxy S24 vs Oppo Reno 14,comparison,Response for comparison.
+Price of phone case,accessory_search,Response for accessory_search.
+Good morning,greeting,Response for greeting.
+Price of phone case,accessory_search,Response for accessory_search.
+Which is better Vivo V50 or OnePlus 13?,comparison,Response for comparison.
+Hey,greeting,Response for greeting.
+Price of phone case,accessory_search,Response for accessory_search.
+Best battery phone,recommendation,Response for recommendation.
+Thanks a lot,thanks,Response for thanks.
+Looking for Realme mobiles,phone_search,Response for phone_search.
+Hello,greeting,Response for greeting.
+Hello,greeting,Response for greeting.
+Cash accepted?,payment,Response for payment.
+Which is better Redmi Note 14 or iPhone 15?,comparison,Response for comparison.
+Show me OnePlus phones,phone_search,Response for phone_search.
+Have a nice day,goodbye,Response for goodbye.
+Goodbye,goodbye,Response for goodbye.
+Which is better Vivo V50 or Redmi Note 14?,comparison,Response for comparison.
+Latest Realme phones,phone_search,Response for phone_search.
+Need a AirPods,accessory_search,Response for accessory_search.
+Looking for power bank,accessory_search,Response for accessory_search.
+Which is better Oppo Reno 14 or Redmi Note 14?,comparison,Response for comparison.
+Online payment?,payment,Response for payment.
+Recommend a phone,recommendation,Response for recommendation.
+Cost of Galaxy S24,price_query,Response for price_query.
+Catch you later,goodbye,Response for goodbye.
+Compare OnePlus 13 and Galaxy S24,comparison,Response for comparison.
+Online payment?,payment,Response for payment.
+Is Galaxy S24 available?,availability,Response for availability.
+Show me Apple phones,phone_search,Response for phone_search.
+See you,goodbye,Response for goodbye.
+Great thanks,thanks,Response for thanks.
+Which is better Oppo Reno 14 or Oppo Reno 14?,comparison,Response for comparison.
+Payment methods,payment,Response for payment.
+How much is Redmi Note 14?,price_query,Response for price_query.
+Do you have OnePlus 13 now?,availability,Response for availability.
+Good morning,greeting,Response for greeting.
+Can I pay by card?,payment,Response for payment.
+Is Galaxy S24 available?,availability,Response for availability.
+Need a charger,accessory_search,Response for accessory_search.
+Good morning,greeting,Response for greeting.
+Bye,goodbye,Response for goodbye.
+In stock iPhone 15?,availability,Response for availability.
+Can I use Visa?,payment,Response for payment.
+Difference between OnePlus 13 and Vivo V50,comparison,Response for comparison.
+Can I buy Redmi Note 14?,availability,Response for availability.
+See you,goodbye,Response for goodbye.
+Cost of Galaxy S24,price_query,Response for price_query.
+Looking for charger,accessory_search,Response for accessory_search.
+Great thanks,thanks,Response for thanks.
+Redmi Note 14 price,price_query,Response for price_query.
+Do you have Realme?,phone_search,Response for phone_search.
+Phone for students,recommendation,Response for recommendation.
+Hey,greeting,Response for greeting.
+Need a USB-C cable,accessory_search,Response for accessory_search.
+Can I use Visa?,payment,Response for payment.
+Need a phone case,accessory_search,Response for accessory_search.
+Do you have Galaxy S24 now?,availability,Response for availability.
+Show USB-C cable,accessory_search,Response for accessory_search.
+Vivo V50 vs Vivo V50,comparison,Response for comparison.
+Price of Galaxy S24,price_query,Response for price_query.
+Cash accepted?,payment,Response for payment.
+OnePlus 13 price,price_query,Response for price_query.
+Price of AirPods,accessory_search,Response for accessory_search.
+Have a nice day,goodbye,Response for goodbye.
+Is Vivo V50 available?,availability,Response for availability.
+Online payment?,payment,Response for payment.
+Availability of iPhone 15,availability,Response for availability.
+Catch you later,goodbye,Response for goodbye.
+In stock OnePlus 13?,availability,Response for availability.
+Price of phone case,accessory_search,Response for accessory_search.
+Which is better Galaxy S24 or Vivo V50?,comparison,Response for comparison.
+Compare these phones,comparison,Response for comparison.
+Cost of OnePlus 13,price_query,Response for price_query.
+Hi,greeting,Response for greeting.
+Thanks,thanks,Response for thanks.
+Best gaming phone,recommendation,Response for recommendation.
+Recommend a phone,recommendation,Response for recommendation.
+Price of power bank,accessory_search,Response for accessory_search.
+Latest Realme phones,phone_search,Response for phone_search.
+I need a Oppo phone,phone_search,Response for phone_search.
+Galaxy S24 vs Galaxy S24,comparison,Response for comparison.
+Do you have Realme?,phone_search,Response for phone_search.
+Show charger,accessory_search,Response for accessory_search.
+Great thanks,thanks,Response for thanks.
+Availability of Vivo V50,availability,Response for availability.
+Bye,goodbye,Response for goodbye.
+Cost of Vivo V50,price_query,Response for price_query.
+Tell me the price of Redmi Note 14,price_query,Response for price_query.
+Recommend a phone,recommendation,Response for recommendation.
+Goodbye,goodbye,Response for goodbye.
+Price of AirPods,accessory_search,Response for accessory_search.
+Looking for USB-C cable,accessory_search,Response for accessory_search.
+Best battery phone,recommendation,Response for recommendation.
+Price of power bank,accessory_search,Response for accessory_search.
+Difference between OnePlus 13 and iPhone 15,comparison,Response for comparison.
+Thanks a lot,thanks,Response for thanks.
+Price of screen protector,accessory_search,Response for accessory_search.
+Do you have charger?,accessory_search,Response for accessory_search.
+Tell me the price of Oppo Reno 14,price_query,Response for price_query.
+Payment methods,payment,Response for payment.
+Tell me the price of Galaxy S24,price_query,Response for price_query.
+Do you have AirPods?,accessory_search,Response for accessory_search.
+Do you have Apple?,phone_search,Response for phone_search.
+Goodbye,goodbye,Response for goodbye.
+Catch you later,goodbye,Response for goodbye.
+Have a nice day,goodbye,Response for goodbye.
+Show power bank,accessory_search,Response for accessory_search.
+Can I use Visa?,payment,Response for payment.
+Best camera phone,recommendation,Response for recommendation.
+Payment methods,payment,Response for payment.
+Recommend a phone,recommendation,Response for recommendation.
+Hey,greeting,Response for greeting.
+In stock Oppo Reno 14?,availability,Response for availability.
+Online payment?,payment,Response for payment.
+Compare Galaxy S24 and iPhone 15,comparison,Response for comparison.
+Hey,greeting,Response for greeting.
+Have a nice day,goodbye,Response for goodbye.
+See you,goodbye,Response for goodbye.
+Best camera phone,recommendation,Response for recommendation.
+Phone for students,recommendation,Response for recommendation.
+Goodbye,goodbye,Response for goodbye.
+Online payment?,payment,Response for payment.
+Is Oppo Reno 14 available?,availability,Response for availability.
+Compare OnePlus 13 and Redmi Note 14,comparison,Response for comparison.
+I need a Vivo phone,phone_search,Response for phone_search.
+Online payment?,payment,Response for payment.
+How much is Vivo V50?,price_query,Response for price_query.
+Which is better OnePlus 13 or Galaxy S24?,comparison,Response for comparison.
+Payment methods,payment,Response for payment.
+Latest OnePlus phones,phone_search,Response for phone_search.
+I need a OnePlus phone,phone_search,Response for phone_search.
+I need a Samsung phone,phone_search,Response for phone_search.
+Do you have Vivo V50 now?,availability,Response for availability.
+Vivo V50 price,price_query,Response for price_query.
+Good evening,greeting,Response for greeting.
+Great thanks,thanks,Response for thanks.
+How much is OnePlus 13?,price_query,Response for price_query.
+Latest Samsung phones,phone_search,Response for phone_search.
+Which is better OnePlus 13 or Galaxy S24?,comparison,Response for comparison.
+Can I use Visa?,payment,Response for payment.
+Looking for charger,accessory_search,Response for accessory_search.
+Cash accepted?,payment,Response for payment.
+Recommend a phone,recommendation,Response for recommendation.
+Looking for USB-C cable,accessory_search,Response for accessory_search.
+Best battery phone,recommendation,Response for recommendation.
+Best camera phone,recommendation,Response for recommendation.
+Have a nice day,goodbye,Response for goodbye.
+Show me Vivo phones,phone_search,Response for phone_search.
+Good morning,greeting,Response for greeting.
+Hi,greeting,Response for greeting.
+Cash accepted?,payment,Response for payment.
+Redmi Note 14 vs Vivo V50,comparison,Response for comparison.
+How much is Galaxy S24?,price_query,Response for price_query.
+Availability of Redmi Note 14,availability,Response for availability.
+Compare iPhone 15 and Vivo V50,comparison,Response for comparison.
+Have a nice day,goodbye,Response for goodbye.
+Need a AirPods,accessory_search,Response for accessory_search.
+Hey,greeting,Response for greeting.
+Hello,greeting,Response for greeting.
+Which is better Galaxy S24 or Redmi Note 14?,comparison,Response for comparison.
+Price of USB-C cable,accessory_search,Response for accessory_search.
+Thank you,thanks,Response for thanks.
+Bye,goodbye,Response for goodbye.
+In stock Redmi Note 14?,availability,Response for availability.
+Which is better iPhone 15 or Oppo Reno 14?,comparison,Response for comparison.
+Looking for Oppo mobiles,phone_search,Response for phone_search.
+Tell me the price of Redmi Note 14,price_query,Response for price_query.
+Hey,greeting,Response for greeting.
+Recommend a phone,recommendation,Response for recommendation.
+Can I use Visa?,payment,Response for payment.
+Price of OnePlus 13,price_query,Response for price_query.
+Do you have OnePlus?,phone_search,Response for phone_search.
+Compare Oppo Reno 14 and Oppo Reno 14,comparison,Response for comparison.
+Show AirPods,accessory_search,Response for accessory_search.
+Difference between Redmi Note 14 and iPhone 15,comparison,Response for comparison.
+Hi,greeting,Response for greeting.
+Looking for Apple mobiles,phone_search,Response for phone_search.
+Good evening,greeting,Response for greeting.
+Goodbye,goodbye,Response for goodbye.
+How much is Oppo Reno 14?,price_query,Response for price_query.
+Latest Realme phones,phone_search,Response for phone_search.
+Great thanks,thanks,Response for thanks.
+Oppo Reno 14 price,price_query,Response for price_query.
+Is iPhone 15 available?,availability,Response for availability.
+Much appreciated,thanks,Response for thanks.
+Do you have Apple?,phone_search,Response for phone_search.
+Is OnePlus 13 available?,availability,Response for availability.
+Price of Oppo Reno 14,price_query,Response for price_query.
+Best gaming phone,recommendation,Response for recommendation.
+Cash accepted?,payment,Response for payment.
+Which is better Redmi Note 14 or Redmi Note 14?,comparison,Response for comparison.
+Best battery phone,recommendation,Response for recommendation.
+Tell me the price of iPhone 15,price_query,Response for price_query.
+Show me Xiaomi phones,phone_search,Response for phone_search.
+Catch you later,goodbye,Response for goodbye.
+Best camera phone,recommendation,Response for recommendation.
+Payment methods,payment,Response for payment.
+In stock Vivo V50?,availability,Response for availability.
+Do you have power bank?,accessory_search,Response for accessory_search.
+Show AirPods,accessory_search,Response for accessory_search.
+Is OnePlus 13 available?,availability,Response for availability.
+Can I buy Galaxy S24?,availability,Response for availability.
+Do you have iPhone 15 now?,availability,Response for availability.
+In stock Vivo V50?,availability,Response for availability.
+Much appreciated,thanks,Response for thanks.
+Bye,goodbye,Response for goodbye.
+How much is iPhone 15?,price_query,Response for price_query.
+Price of Galaxy S24,price_query,Response for price_query.
+Thanks a lot,thanks,Response for thanks.
+Can I use Visa?,payment,Response for payment.
+Good evening,greeting,Response for greeting.
+Cost of Oppo Reno 14,price_query,Response for price_query.
+Vivo V50 price,price_query,Response for price_query.
+Can I pay by card?,payment,Response for payment.
+Galaxy S24 vs OnePlus 13,comparison,Response for comparison.
+Can I buy Oppo Reno 14?,availability,Response for availability.
+Thank you,thanks,Response for thanks.
+Best camera phone,recommendation,Response for recommendation.
+Which is better OnePlus 13 or Oppo Reno 14?,comparison,Response for comparison.
+Tell me the price of OnePlus 13,price_query,Response for price_query.
+Show me OnePlus phones,phone_search,Response for phone_search.
+Best battery phone,recommendation,Response for recommendation.
+Cost of OnePlus 13,price_query,Response for price_query.
+Can I use Visa?,payment,Response for payment.
+Catch you later,goodbye,Response for goodbye.
+I need a Apple phone,phone_search,Response for phone_search.
+Price of Oppo Reno 14,price_query,Response for price_query.
+Much appreciated,thanks,Response for thanks.
+Need a phone case,accessory_search,Response for accessory_search.
+Thank you,thanks,Response for thanks.
+Hi,greeting,Response for greeting.
+Best gaming phone,recommendation,Response for recommendation.
+Much appreciated,thanks,Response for thanks.
+Show USB-C cable,accessory_search,Response for accessory_search.
+Cost of Redmi Note 14,price_query,Response for price_query.
+Much appreciated,thanks,Response for thanks.
+Catch you later,goodbye,Response for goodbye.
+Good morning,greeting,Response for greeting.
+Cash accepted?,payment,Response for payment.
+See you,goodbye,Response for goodbye.
+Bye,goodbye,Response for goodbye.
+Online payment?,payment,Response for payment.
+Thanks,thanks,Response for thanks.
+Price of iPhone 15,price_query,Response for price_query.
+Price of Redmi Note 14,price_query,Response for price_query.
+Best gaming phone,recommendation,Response for recommendation.
+Have a nice day,goodbye,Response for goodbye.
+Best camera phone,recommendation,Response for recommendation.
+Bye,goodbye,Response for goodbye.
+Can I buy iPhone 15?,availability,Response for availability.
+Payment methods,payment,Response for payment.
+Hey,greeting,Response for greeting.
+Online payment?,payment,Response for payment.
+Tell me the price of iPhone 15,price_query,Response for price_query.
+Good morning,greeting,Response for greeting.
+Need a AirPods,accessory_search,Response for accessory_search.
+Do you have AirPods?,accessory_search,Response for accessory_search.
+Can I use Visa?,payment,Response for payment.
+See you,goodbye,Response for goodbye.
+Can I buy OnePlus 13?,availability,Response for availability.
+Best camera phone,recommendation,Response for recommendation.
+Compare these phones,comparison,Response for comparison.
+Best camera phone,recommendation,Response for recommendation.
+Cash accepted?,payment,Response for payment.
+Looking for charger,accessory_search,Response for accessory_search.
+Can I pay by card?,payment,Response for payment.
+Good evening,greeting,Response for greeting.
+Looking for Oppo mobiles,phone_search,Response for phone_search.
+Thank you,thanks,Response for thanks.
+Online payment?,payment,Response for payment.
+Catch you later,goodbye,Response for goodbye.
+Do you have Vivo V50 now?,availability,Response for availability.
+Much appreciated,thanks,Response for thanks.
+Goodbye,goodbye,Response for goodbye.
+Cost of OnePlus 13,price_query,Response for price_query.
+Best camera phone,recommendation,Response for recommendation.
+Looking for USB-C cable,accessory_search,Response for accessory_search.
+Price of power bank,accessory_search,Response for accessory_search.
+Show me Apple phones,phone_search,Response for phone_search.
+Goodbye,goodbye,Response for goodbye.
+Looking for AirPods,accessory_search,Response for accessory_search.
+Thanks,thanks,Response for thanks.
+Best battery phone,recommendation,Response for recommendation.
+Which is better Redmi Note 14 or iPhone 15?,comparison,Response for comparison.
+Is Redmi Note 14 available?,availability,Response for availability.
+Payment methods,payment,Response for payment.
+Hello,greeting,Response for greeting.
+Difference between Redmi Note 14 and iPhone 15,comparison,Response for comparison.
+Have a nice day,goodbye,Response for goodbye.
+Tell me the price of Oppo Reno 14,price_query,Response for price_query.
+Best gaming phone,recommendation,Response for recommendation.
+Have a nice day,goodbye,Response for goodbye.
+Can I pay by card?,payment,Response for payment.
+Cash accepted?,payment,Response for payment.
+Show me Realme phones,phone_search,Response for phone_search.
+Have a nice day,goodbye,Response for goodbye.
+Do you have Xiaomi?,phone_search,Response for phone_search.
+Price of Vivo V50,price_query,Response for price_query.
+Oppo Reno 14 price,price_query,Response for price_query.
+Best camera phone,recommendation,Response for recommendation.
+Best gaming phone,recommendation,Response for recommendation.
+Good evening,greeting,Response for greeting.
+Availability of OnePlus 13,availability,Response for availability.
+Availability of Oppo Reno 14,availability,Response for availability.
+Price of Redmi Note 14,price_query,Response for price_query.
+Payment methods,payment,Response for payment.
+How much is Oppo Reno 14?,price_query,Response for price_query.
+Looking for Oppo mobiles,phone_search,Response for phone_search.
+Great thanks,thanks,Response for thanks.
+Goodbye,goodbye,Response for goodbye.
+Vivo V50 vs Redmi Note 14,comparison,Response for comparison.
+Compare these phones,comparison,Response for comparison.
+Latest Realme phones,phone_search,Response for phone_search.
+Difference between Vivo V50 and Vivo V50,comparison,Response for comparison.
+Have a nice day,goodbye,Response for goodbye.
+Can I buy Vivo V50?,availability,Response for availability.
+Best gaming phone,recommendation,Response for recommendation.
+Hi,greeting,Response for greeting.
+Thanks a lot,thanks,Response for thanks.
+Much appreciated,thanks,Response for thanks.
+Can I buy OnePlus 13?,availability,Response for availability.
+Have a nice day,goodbye,Response for goodbye.
+Have a nice day,goodbye,Response for goodbye.
+Redmi Note 14 price,price_query,Response for price_query.
+In stock iPhone 15?,availability,Response for availability.
+Online payment?,payment,Response for payment.
+Can I use Visa?,payment,Response for payment.
+Looking for charger,accessory_search,Response for accessory_search.
+Tell me the price of Vivo V50,price_query,Response for price_query.
+Need a phone case,accessory_search,Response for accessory_search.
+Do you have Vivo V50 now?,availability,Response for availability.
+Can I use Visa?,payment,Response for payment.
+Goodbye,goodbye,Response for goodbye.
+How much is iPhone 15?,price_query,Response for price_query.
+Price of power bank,accessory_search,Response for accessory_search.
+Compare these phones,comparison,Response for comparison.
+Do you have Vivo V50 now?,availability,Response for availability.
+Compare these phones,comparison,Response for comparison.
+Can I buy Oppo Reno 14?,availability,Response for availability.
+Do you have Vivo V50 now?,availability,Response for availability.
+How much is Vivo V50?,price_query,Response for price_query.
+Price of power bank,accessory_search,Response for accessory_search.
+Can I buy iPhone 15?,availability,Response for availability.
+Hey,greeting,Response for greeting.
+Difference between Galaxy S24 and Oppo Reno 14,comparison,Response for comparison.
+Is Vivo V50 available?,availability,Response for availability.
+Difference between OnePlus 13 and Redmi Note 14,comparison,Response for comparison.
+Good morning,greeting,Response for greeting.
+I need a Samsung phone,phone_search,Response for phone_search.
+In stock Redmi Note 14?,availability,Response for availability.
+Do you have Galaxy S24 now?,availability,Response for availability.
+Good evening,greeting,Response for greeting.
+Can I use Visa?,payment,Response for payment.
+Do you have screen protector?,accessory_search,Response for accessory_search.
+Hi,greeting,Response for greeting.
+Price of charger,accessory_search,Response for accessory_search.
+How much is Galaxy S24?,price_query,Response for price_query.
+Compare these phones,comparison,Response for comparison.
+Cash accepted?,payment,Response for payment.
+Much appreciated,thanks,Response for thanks.
+Do you have screen protector?,accessory_search,Response for accessory_search.
+Have a nice day,goodbye,Response for goodbye.
+Good evening,greeting,Response for greeting.
+OnePlus 13 price,price_query,Response for price_query.
+Which is better OnePlus 13 or Redmi Note 14?,comparison,Response for comparison.
+Best battery phone,recommendation,Response for recommendation.
+Bye,goodbye,Response for goodbye.
+Much appreciated,thanks,Response for thanks.
