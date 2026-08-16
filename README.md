@@ -5,7 +5,7 @@ A mobile-shop chatbot built on your existing trained models and datasets.
 ## Install
 
 ```bash
-cd "Mobixa Chat bot"
+cd "NLP_Group_22"
 pip install -r requirements.txt
 ```
 
