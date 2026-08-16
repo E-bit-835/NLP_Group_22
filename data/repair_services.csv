@@ -1,0 +1,31 @@
+repair_service,supported_brand,estimated_price_lkr,estimated_time,warranty,description
+Screen Replacement,Apple,35000,2 Hours,3 Months,Original-quality screen replacement
+Screen Replacement,Samsung,28000,2 Hours,3 Months,Genuine display replacement
+Screen Replacement,Xiaomi,18000,2 Hours,3 Months,High-quality replacement display
+Battery Replacement,Apple,18000,1 Hour,6 Months,Original battery replacement
+Battery Replacement,Samsung,12000,1 Hour,6 Months,Genuine Samsung battery
+Battery Replacement,Xiaomi,8500,1 Hour,6 Months,Replacement battery
+Charging Port Repair,Apple,14000,2 Hours,3 Months,Charging connector replacement
+Charging Port Repair,Samsung,10000,2 Hours,3 Months,USB-C charging port repair
+Charging Port Repair,Xiaomi,8000,2 Hours,3 Months,Charging port replacement
+Camera Replacement,Apple,24000,2 Hours,3 Months,Rear camera replacement
+Camera Replacement,Samsung,20000,2 Hours,3 Months,Camera module replacement
+Front Camera Repair,Universal,9000,1 Hour,3 Months,Front camera replacement
+Speaker Replacement,Universal,7500,1 Hour,3 Months,Loudspeaker repair
+Microphone Repair,Universal,7000,1 Hour,3 Months,Microphone replacement
+Back Glass Replacement,Apple,22000,3 Hours,3 Months,Replace damaged back glass
+Back Cover Replacement,Samsung,11000,1 Hour,3 Months,Back cover replacement
+Water Damage Inspection,Universal,5000,24 Hours,No Warranty,Device inspection after water damage
+Software Update,Universal,2500,30 Minutes,No Warranty,Firmware installation
+Factory Reset,Universal,1500,20 Minutes,No Warranty,Data wipe and reset
+Virus Removal,Android,3000,45 Minutes,No Warranty,Remove malware and optimize phone
+Face ID Repair,Apple,32000,1 Day,3 Months,Face ID diagnosis and repair
+Fingerprint Sensor Repair,Android,8000,2 Hours,3 Months,Replace fingerprint sensor
+SIM Tray Replacement,Universal,1500,15 Minutes,No Warranty,New SIM tray installation
+Power Button Repair,Universal,5500,1 Hour,3 Months,Repair power button
+Volume Button Repair,Universal,5000,1 Hour,3 Months,Repair volume buttons
+Motherboard Diagnosis,Universal,6000,1 Day,No Warranty,Full hardware diagnosis
+Motherboard Repair,Apple,45000,2 Days,3 Months,Advanced motherboard repair
+Motherboard Repair,Samsung,35000,2 Days,3 Months,Chip-level motherboard repair
+Data Recovery,Universal,15000,2 Days,No Warranty,Recover deleted or inaccessible data
+Screen Protector Installation,Universal,500,10 Minutes,No Warranty,Install tempered glass professionally
