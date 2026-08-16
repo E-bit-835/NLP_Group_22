@@ -1,8 +1,5 @@
-pandas
-numpy
-scikit-learn
-nltk
-matplotlib
-seaborn
-joblib
-jupyter
+streamlit>=1.32
+pandas>=2.0
+scikit-learn==1.9.0
+tensorflow>=2.16
+nltk>=3.8
